@@ -1,13 +1,13 @@
 ## The Goal
-Our goal is not to have the biggest list of everything available out there.
-Our goal is to have a list of things that anybody would have to learn if they were to enter the field of Arttificial Intelligence.
+*  Our goal is not to have the biggest list of everything available out there.
+*  Our goal is to have a list of things that anybody would have to learn if they were to enter the field of Arttificial Intelligence.
 
 ## Contributing
 
 
 [code-of-conduct]: Code_Of_Conduct.md
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
