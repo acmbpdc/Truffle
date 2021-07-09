@@ -52,7 +52,7 @@ You can find our Contributing guidelines [here](./contri.md).
 
 ## Code Of Conduct:
 
-You can find our Code of Conduct [here](./CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 
 [website]: http://ai-bits.com/
 [gmail]: http://ai-bits.com/
