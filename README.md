@@ -36,14 +36,14 @@ Building the Largest AI Open Source Community in MENA
 
 ## 📕 Table of Contents
 
-*   [Programming Languages](./Ganache/Programming Languages)
+*   [Programming Languages](./Ganache/Languages)
 *   [Integrated Development Environments (IDEs)](./Ganache/IDEs) 
 *   [Python Libraries](./Ganache/Libraries)
 *   [Frameworks](./Ganache/Frameworks)
 *   [Courses/Tutorials](./Ganache/Courses)
-*   [Data Sources](./Ganache/Data Sources)
-*   [Cloud Services](./Ganache/Cloud Services)
-*   [Cheat Sheets](./Ganache/Cheat Sheets)
+*   [Data Sources](./Ganache/Data)
+*   [Cloud Services](./Ganache/Cloud)
+*   [Cheat Sheets](./Ganache/CheatSheets)
 
 📆&nbsp; More topics coming soon!<br>
 
