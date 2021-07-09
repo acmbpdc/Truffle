@@ -2,6 +2,11 @@
 *  Our goal is not to have the biggest list of everything available out there.
 *  Our goal is to have a list of things that anybody would have to learn if they were to enter the field of Arttificial Intelligence.
 
+## Before Getting Started!
+Learn how to fork a repo, create an issue, make changes, create pull request.
+
+For more information, refer to <a href = "https://docs.github.com/en" target = "_self">GitHub Documentation</a>
+
 ## Contributing
 
 
