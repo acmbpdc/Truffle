@@ -29,7 +29,7 @@ Building the Largest AI Open Source Community in MENA
 
 ## Evolution of AI
 
-<img align="center" alt="AI" src="https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg" width="700" height="300" />
+<img align="center" alt="AI" src="https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg" width="900" height="500" />
 
 <br>
 
