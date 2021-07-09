@@ -47,7 +47,7 @@ Building the Largest AI Open Source Community in MENA
 📆&nbsp; More topics coming soon!<br>
 
 ## Contribution Guidelines ⚙️
-You can find our Contributing guidelines [here](./contri.md).
+You can find our Contributing guidelines [here](./CONTRIBUTION.md).
 
 ## Code Of Conduct:
 
