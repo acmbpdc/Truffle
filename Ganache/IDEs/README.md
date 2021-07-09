@@ -5,7 +5,7 @@ List of [`Integrated Development Environments`](https://en.wikipedia.org/wiki/In
 </br>
  <img align="right" alt="GIF" src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif" width="500" height="320" />
 
-*   [Spyder](#spyder)  
+*   [Spyder](#Spyder)  
 *   [R Studio](#rstudio)    
 *   [Google Colaboratory](#google_colaboratory)
 *   [Thonny](#thonny)
