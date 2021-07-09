@@ -15,8 +15,9 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)
 
-Incase of any query, feel free to email us at`ai@dubai.bits-pilani.ac.in`
-The more the better. Questions help identify where the guide needs to be improved.
+*  Incase of any query, feel free to email us at `ai@dubai.bits-pilani.ac.in`
+*  The more the better.
+*  Questions help identify where the guide needs to be improved.
 
 ## Issues and PRs
 
