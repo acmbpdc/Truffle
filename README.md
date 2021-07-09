@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img width="30" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH7KoSVkF5yWw/company-logo_200_200/0/1616566659342?e=1633564800&v=beta&t=Vb_hBu4QXXzP9idaBP-Ix6nDle1Nan2MF3mQpi-JIKw">&nbsp;<a href="http://ai-bits.com/">AI@BITS</a></h1>
+<h1><img width="30" src="https://github.com/aibits-dxb/Truffle/blob/main/Drizzle/Pictures/AI%40BITS_LOGO.jpg">&nbsp;<a href="http://ai-bits.com/">AI@BITS</a></h1>
 🧠 Imagine | 👨🏻‍💻 Implement | 🚀 Innovate
 <br>
 Building the Largest AI Open Source Community in MENA 
