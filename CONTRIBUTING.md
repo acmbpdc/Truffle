@@ -36,12 +36,6 @@ Here are few notes before you jump in.
 *  The more the better.
 *  Questions help identify where the guide needs to be improved.
 
-## Issues and PRs
-
-If you have suggestions for how Stale could be improved, or want to report a bug, open an issue! We'd love all and any contributions. If you have questions, too, we'd love to hear them.
-
-We'd also love PRs. If you're thinking of a large PR, we advise opening up an issue first to talk about it, though! Look at the links below if you're not sure how to open a PR.
-
 ## Note
 By contributing to this project, you agree to the terms listed in the [LICENSE](https://github.com/aibits-dxb/Truffle/blob/main/LICENSE)
 
