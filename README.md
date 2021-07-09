@@ -36,14 +36,14 @@ Building the Largest AI Open Source Community in MENA
 
 ## 📕 Table of Contents
 
-*   [Programming Languages](./Lava/Languages.md)
-*   [Integrated Development Environments (IDEs)](./Lava/IDEs.md) 
-*   [Python Libraries](./Lava/Libraries.md)
-*   [Frameworks](./Lava/Frameworks.md)
-*   [Courses/Tutorials](./Lava/Courses.md)
-*   [Data Sources](./Lava/Data.md)
-*   [Cloud Services](./Lava/Cloud.md)
-*   [Cheat Sheets](./Lava/cheatsheet.md)
+*   [Programming Languages](./Ganache/Programming Languages)
+*   [Integrated Development Environments (IDEs)](./Ganache/IDEs) 
+*   [Python Libraries](./Ganache/Libraries)
+*   [Frameworks](./Ganache/Frameworks)
+*   [Courses/Tutorials](./Ganache/Courses)
+*   [Data Sources](./Ganache/Data Sources)
+*   [Cloud Services](./Ganache/Cloud Services)
+*   [Cheat Sheets](./Ganache/Cheat Sheets)
 
 📆&nbsp; More topics coming soon!<br>
 
