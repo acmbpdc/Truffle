@@ -70,10 +70,6 @@ You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/company/ai-bits/
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
 
 
 
