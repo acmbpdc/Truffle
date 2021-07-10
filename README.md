@@ -8,12 +8,13 @@ Building the Largest AI Open Source Community in MENA
 
 <br>
 
-[<img align="center" alt="ai-bits.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="AI@BITS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="AI@BITS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="AI@BITS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<p align="center">
+  <img width="100" height="100" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+</p>
 
-<br />
 
 # Project Truffle
 
