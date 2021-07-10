@@ -47,6 +47,14 @@ Building the Largest AI Open Source Community in MENA
 
 📆&nbsp; More topics coming soon!<br>
 
+<br>
+
+### How to Share
+
++ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/aibits-dxb/Truffle)
++ [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
+
 ## Contribution Guidelines ⚙️
 You can find our Contributing guidelines [here](./CONTRIBUTING.md).
 
@@ -56,9 +64,14 @@ You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 
 [website]: http://ai-bits.com/
 [gmail]: http://ai-bits.com/
-[twitter]: https://twitter.com/codeSTACKr
-[facebook]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/company/ai-bits/
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+
 
 
