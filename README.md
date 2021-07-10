@@ -61,7 +61,7 @@ Building the Largest AI Open Source Community in MENA
 * Please read the Contribution guidelines first.
 * You can find our Contributing guidelines [here](./CONTRIBUTING.md).
 
-## Code Of Conduct:
+## Code Of Conduct 🔐
 
 You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 
