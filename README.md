@@ -9,10 +9,10 @@ Building the Largest AI Open Source Community in MENA
 <br>
 
 <p align="center">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+  <img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  <img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  <img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </p>
 
 
