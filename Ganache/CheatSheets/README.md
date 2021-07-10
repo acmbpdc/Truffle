@@ -5,15 +5,16 @@
  
 <br>
 
-### Python
+### [Python Cheatsheet](https://github.com/aibits-dxb/Truffle/blob/main/Ganache/CheatSheets/Python-Cheat-Sheet.pdf)
 
-### R
+### [R Cheatsheet](https://github.com/aibits-dxb/Truffle/blob/main/Ganache/CheatSheets/R-Cheat-Sheet.pdf)
 
-### Data Science with Python
+### [Neural Networks Cheatsheet](https://github.com/aibits-dxb/Truffle/blob/main/Ganache/CheatSheets/NeuralNetwork.pdf) 
 
-### Machine Learning
+### [Machine Learning Cheatsheet](https://github.com/aibits-dxb/Truffle/blob/main/Ganache/CheatSheets/MachineLearning.pdf)
 
-### Neural Networks
+### [Data Science with Python Cheatsheet](https://github.com/aibits-dxb/Truffle/blob/main/Ganache/CheatSheets/DataSciencewithPython.pdf) 
+
 
 
 
