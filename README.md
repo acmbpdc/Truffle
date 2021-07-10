@@ -52,12 +52,12 @@ Building the Largest AI Open Source Community in MENA
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/aibits-dxb/Truffle)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/aibits-dxb/Truffle&summary=&source=)
 
-## Contribution Guidelines ⚙️
+## ⚙️ Contribution Guidelines 
 * Contributions are always welcome! 
 * Please read the Contribution guidelines first.
 * You can find our Contributing guidelines [here](./CONTRIBUTING.md).
 
-## Code Of Conduct 🔐
+## 🔐 Code Of Conduct 
 
 You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 
