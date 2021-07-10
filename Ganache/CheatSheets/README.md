@@ -1,5 +1,5 @@
 # Cheat Sheets 
-### By BecomingHuman.AI
+### - BecomingHuman.AI
 
 
 
