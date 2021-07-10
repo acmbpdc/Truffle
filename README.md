@@ -8,6 +8,8 @@ Building the Largest AI Open Source Community in MENA
 
 <br>
 
+### Connect with us:
+
 <p align="center">
   [<img width="30" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
   [<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][gmail]
@@ -55,7 +57,9 @@ Building the Largest AI Open Source Community in MENA
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/aibits-dxb/Truffle&summary=&source=)
 
 ## Contribution Guidelines ⚙️
-You can find our Contributing guidelines [here](./CONTRIBUTING.md).
+* Contributions are always welcome! 
+* Please read the Contribution guidelines first.
+* You can find our Contributing guidelines [here](./CONTRIBUTING.md).
 
 ## Code Of Conduct:
 
