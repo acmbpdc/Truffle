@@ -10,7 +10,7 @@ Building the Largest AI Open Source Community in MENA
 
 <p align="center">
   [<img width="30" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-  [<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/company/ai-bits/)
+  [<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][gmail]
   [<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
   [<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">][gmail]
 </p>
