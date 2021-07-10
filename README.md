@@ -6,8 +6,6 @@ Building the Largest AI Open Source Community in MENA
     <br>
 </div>
 
-<br>
-
 ### Connect with us:
 
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
