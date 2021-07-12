@@ -5,7 +5,13 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 | University | Research Ranking in Machine Learning | Research Ranking in AI | Program Name |
 |:-------------:|:-------------:|:-----:|:------------:|
-| [Spyder](https://en.wikipedia.org/wiki/Spyder_(software)) | Pierre Raybaut | 18 October 2009 | Python |
-| [R Studio](https://en.wikipedia.org/wiki/RStudio) | RStudio, PBC | 28 February 2011 | 	Java, C++, JavaScript |
-| [Google Colaboratory](https://en.wikipedia.org/wiki/Project_Jupyter#Google_Colaboratory) | Google Chrome Team | 2017 | Python |
-| [Thonny](https://en.wikipedia.org/wiki/Thonny) | Aivar Annamaa | 2014 | Python |
+| [Carnegie Mellon University](#cmu) | 1 | 1 | Python |
+| [University of California — Berkeley](#ucb) | 2 | 15 | 	Java, C++, JavaScript |
+| [Stanford University](#stanford) | 3 | 3 | Python |
+| [Massachusetts Institute of Technology](#mit) | 4 | 5 | Python |
+| [Cornell University](#cornell) | 5 | 2 | Python |
+| [University of California — San Diego (UCSD)](#ucsd) | 6 | 12 | 	Java, C++, JavaScript |
+| [Georgia Institute of Technology](#git) | 6 | 13 | Python |
+| [University of Washington](#uw) | 7 | 6 | Python |
+| [University of California — Los Angeles (UCLA)](#ucla) | 8 | 7 | Python |
+| [University of Illinois at Urbana-Champaign (UIUC)](#uiuc) | 9 | 4 | Python |
