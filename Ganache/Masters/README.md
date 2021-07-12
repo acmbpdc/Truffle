@@ -20,10 +20,15 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 ## [Carnegie Mellon University](https://mktg.best/9d0bf)
 **Program Name**: Master of Science in Machine Learning
+
 **Duration:** 9 months to 2 years
+
 **Location**: Pittsburgh, Pennsylvania
+
 **Core courses**: Advanced machine learning, statistics, research, statistical machine learning, data analysis, artificial intelligence, data science.
+
 **Tracks available**: Masters of Science in Machine Learning, Fifth Year Masters in Machine Learning, Secondary Masters of Science in Machine Learning, Masters of Computational Data Science, Master of Science in Computer Science.
+
 **Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, robotics, deep learning, data mining, web and information retrieval, computer science, and others.
 
 
