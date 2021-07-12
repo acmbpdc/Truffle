@@ -15,3 +15,23 @@ These are the best universities to pursue a master’s degree in machine learnin
 | 8 | [University of Washington](#uw) | 6 | Masters in Computer Science, Master of Science in Data Science |
 | 9 | [University of California — Los Angeles (UCLA)](#ucla) | 7 | Masters of Science in Computer Science |
 | 10 | [University of Illinois at Urbana-Champaign (UIUC)](#uiuc) | 4 |Master of Science in Computer Science |
+
+<br>
+
+## [Carnegie Mellon University](https://mktg.best/9d0bf)
+**Program Name**: Master of Science in Machine Learning
+**Duration:** 9 months to 2 years
+**Location**: Pittsburgh, Pennsylvania
+**Core courses**: Advanced machine learning, statistics, research, statistical machine learning, data analysis, artificial intelligence, data science.
+**Tracks available**: Masters of Science in Machine Learning, Fifth Year Masters in Machine Learning, Secondary Masters of Science in Machine Learning, Masters of Computational Data Science, Master of Science in Computer Science.
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, robotics, deep learning, data mining, web and information retrieval, computer science, and others.
+
+
+<br>
+
+### Connect with us:
+
+<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
