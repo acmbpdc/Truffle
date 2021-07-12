@@ -6,13 +6,13 @@ Building the Largest AI Open Source Community in MENA
     <br>
 </div>
 <br>
-
+<div align="center">
 [<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
-
+</div>
 
 # Project Truffle
 
