@@ -6,19 +6,19 @@ Towards AI is a data-driven community that discusses artificial intelligence, da
 Please know that the blogs listed below are by no means ranked or in a particular order. They are all incredible sources of machine learning research.
 
 *   [ML@CMU](#ML@CMU)
-*   [Amazon Science Blog](#Amazon Science Blog)
+*   [Amazon Science Blog](#Amazon_ScienceBlog)
 *   [Distill](#Distill)
 *   [Google AI Blog](#GoogleAIBlog)
 *   [Data Science Dojo](#DataScienceDojo)
 *   [Neptune.AI](#Neptune.AI)
 *   [BAIR Berkeley](#BAIR Berkeley)
-*   [Open AI](#Open AI)
-*   [Machine Learning (Theory)](#Machine Learning (Theory))
-*   [DeepMind Blog](#DeepMind Blog)
-*   [Machine Learning at MIT](#Machine Learning at MIT)
-*   [Colah’s Blog](#Colah’s Blog)
-*   [Facebook AI’s Blog](#Facebook AI’s Blog)
-*   [Amazon AWS Machine Learning Blog](#Amazon AWS Machine Learning Blog)
+*   [Open AI](#OpenAI)
+*   [Machine Learning (Theory)](#Machine Learning(Theory))
+*   [DeepMind Blog](#DeepMindBlog)
+*   [Machine Learning at MIT](#Machine LearningatMIT)
+*   [Colah’s Blog](#Colah’sBlog)
+*   [Facebook AI’s Blog](#FacebookAI’sBlog)
+*   [Amazon AWS Machine Learning Blog](#AmazonAWSMachineLearningBlog)
 
 
 ## [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://mktg.best/machine-learning-blog)
