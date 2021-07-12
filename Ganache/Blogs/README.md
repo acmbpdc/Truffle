@@ -11,7 +11,7 @@ Please know that the blogs listed below are by no means ranked or in a particula
 *   [Google AI Blog](#GoogleAIBlog)
 *   [Data Science Dojo](#DataScienceDojo)
 *   [Neptune.AI](#Neptune.AI)
-*   [BAIR Berkeley](#BAIR Berkeley)
+*   [BAIR Berkeley](#BAIRBerkeley)
 *   [Open AI](#OpenAI)
 *   [Machine Learning (Theory)](#MachineLearning(Theory))
 *   [DeepMind Blog](#DeepMindBlog)
