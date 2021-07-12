@@ -21,6 +21,7 @@ Please know that the blogs listed below are by no means ranked or in a particula
 *   [Amazon AWS Machine Learning Blog](#AmazonAWSMachineLearningBlog)
 
 <br>
+
 ## [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://mktg.best/machine-learning-blog)
 The machine learning blog at Carnegie Mellon University, ML@CMU, provides an accessible, general-audience medium for researchers to communicate research findings, perspectives on the field of machine learning, and various updates, both to experts and the general audience. Posts are from students, postdocs, and faculty at Carnegie Mellon
 <br>
