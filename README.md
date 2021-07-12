@@ -6,6 +6,8 @@ Building the Largest AI Open Source Community in MENA
     <br>
 </div>
 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
+
 ### Connect with us:
 
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
