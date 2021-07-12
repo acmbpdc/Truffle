@@ -8,13 +8,6 @@ Building the Largest AI Open Source Community in MENA
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.linkedin.com/company/ai-bits/)
 
-### Connect with us:
-
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
 
 # Project Truffle
 
@@ -63,6 +56,13 @@ Building the Largest AI Open Source Community in MENA
 ## 🔐 Code Of Conduct 
 
 You can find our Code of Conduct [here](./Code_Of_Conduct.md).
+
+### Connect with us:
+
+<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 [website]: http://ai-bits.com/
 [gmail]: http://ai-bits.com/
