@@ -46,6 +46,11 @@ Building the Largest AI Open Source Community in MENA
 
 📆&nbsp; More topics coming soon!<br>
 
+
+## 🎓 Higher Degrees
+*   [Best Master's Programs](./Ganache/Masters)
+*   [Best Ph.D. Programs](./Ganache/PhD)
+
 <br>
 
 ### How to Share
