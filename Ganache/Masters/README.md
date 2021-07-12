@@ -11,7 +11,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 | [Massachusetts Institute of Technology](#mit) | 4 | 5 | Python |
 | [Cornell University](#cornell) | 5 | 2 | Python |
 | [University of California — San Diego (UCSD)](#ucsd) | 6 | 12 | 	Java, C++, JavaScript |
-| [Georgia Institute of Technology](#git) | 6 | 13 | Python |
-| [University of Washington](#uw) | 7 | 6 | Python |
-| [University of California — Los Angeles (UCLA)](#ucla) | 8 | 7 | Python |
-| [University of Illinois at Urbana-Champaign (UIUC)](#uiuc) | 9 | 4 | Python |
+| [Georgia Institute of Technology](#git) | 7 | 13 | Python |
+| [University of Washington](#uw) | 8 | 6 | Python |
+| [University of California — Los Angeles (UCLA)](#ucla) | 9 | 7 | Python |
+| [University of Illinois at Urbana-Champaign (UIUC)](#uiuc) | 10 | 4 | Python |
