@@ -57,7 +57,7 @@ Building the Largest AI Open Source Community in MENA
 
 You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 
-### Connect with us:
+## 🧑‍🤝‍🧑 Connect with us:
 
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
