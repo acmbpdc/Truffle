@@ -48,7 +48,7 @@ Tracks available: Masters in Data Science, Masters in EECS with a focus on machi
 
 <br>
 
-## [Stanford University](https://mktg.best/mejob)
+## [Stanford University](https://mktg.best/mejob) <img align="left" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
 **Program Name**: Masters of Science in Computer Science
 
 **Duration**: 1–2+ years
