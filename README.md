@@ -51,6 +51,12 @@ Building the Largest AI Open Source Community in MENA
 *   [Best Master's Programs](./Ganache/Masters)
 *   [Best Ph.D. Programs](./Ganache/PhD)
 
+<br>
+
+## 💸 Artificial Intelligence (AI): Salaries Heading Skyward
+
+<br>
+
 ## ⚙️ Contribution Guidelines 
 * Contributions are always welcome! 
 * Please read the Contribution guidelines first.
