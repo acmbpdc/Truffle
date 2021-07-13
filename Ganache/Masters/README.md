@@ -34,56 +34,138 @@ These are the best universities to pursue a master’s degree in machine learnin
 <br>
 
 ## [University of California — Berkeley](https://mktg.best/-17zl)
+**Program Name**: Masters in Data Science, Masters in EECS
 
+**Duration**: 1–2.5+ years
+
+**Location**: Berkeley, California
+
+**Core courses**: Research design, data engineering, machine learning, data mining, ethics and privacy, data visualization, computer science, statistical analysis.
+Tracks available: Masters in Data Science, Masters in EECS with a focus on machine learning.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 
 <br>
 
 ## [Stanford University](https://mktg.best/mejob)
+**Program Name**: Masters of Science in Computer Science
 
+**Duration**: 1–2+ years
+
+**Location**: Stanford, California
+
+**Core courses**: Mathematical and theory foundations, computer systems, applications, research, artificial intelligence.
+
+**Tracks available**: Masters of Science in Computer Science with a focus on machine learning.
+
+**Focus areas**: Computer science, Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 
 <br>
 
 ## [Massachusetts Institute of Technology](https://mktg.best/5sit7)
+**Program Name**: Master of Science in EECS
 
+**Duration**: 1–2+ years
+
+**Location**: Cambridge, Massachusetts
+
+**Core courses**: Computer architecture and logic design, computer science, high-level mathematics, electrical engineering basis, artificial intelligence.
+Tracks available: Masters in EECS with a focus on machine learning.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 
 <br>
 
 ## [Cornell University](https://mktg.best/ap3bg)
 
+**Program Name**: Masters in Computer Science
 
+**Duration**: 1–2+ years
+
+**Location**: Ithaca, New York
+
+**Core courses**: Mathematical and theory foundations, computer systems, applications, research, artificial intelligence.
+Tracks available: Masters in Computer Science.
+
+**Focus areas**: artificial intelligence, machine learning, computer science, programming languages and logic, scientific computing and applications, systems, theory, and computation.
 
 <br>
 
 ## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)
 
+**Program Name**: Masters in Computer Science
 
+**Duration**: 1 to 2+ years
+
+**Location**: San Diego, California
+
+**Core courses**: Computer architecture and logic design, computer science, high-level mathematics, electrical engineering, artificial intelligence, machine learning.
+Track available: Masters in Computer Science.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 <br>
 
 ## [Georgia Institute of Technology](https://mktg.best/33gws)
 
+**Program Name**: Masters in Computer Science
 
+**Course Duration**: 1 to 2+ years
+
+**Location**: Atlanta, Georgia
+
+**Core courses**: Advanced machine learning, statistics, research, statistical machine learning, data analysis, artificial intelligence.
+Tracks available: Masters in Computer Science with a specialization in Machine Learning.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, computer science, and others.
 
 <br>
 
 ## [University of Washington](https://mktg.best/mfw2y)
 
+**Program Name**: Masters in Computer Science, Master of Science in Data Science.
 
+**Duration**: 1 to 2+ years
+
+**Location**: Seattle, Washington
+
+**Core courses**: Computer architecture and logic design, computer science, high-level mathematics, electrical engineering basis, artificial intelligence, data science, machine learning, applied machine learning, statistical analysis.
+
+**Tracks available**: Master of Computer Science, Master of Science in Data Science.
+Focus areas: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 <br>
 
 ## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)
 
+**Program Name**: Masters of Science in Computer Science
 
+**Duration**: 1 to 2+ years
+
+**Location**: Los Angeles, California
+
+**Core courses**: Computer architecture and logic design, computer science, high-level mathematics, electrical engineering, artificial intelligence, machine learning.
+Tracks available: Master of Science in Computer Science.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 <br>
 
 ## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)
 
+**Program Name**: Master of Science in Computer Science
 
+**Course Duration**: 1 to 2+ years
+
+**Location**: Champaign, Illinois
+
+**Core courses**: Computer architecture and logic design, computer science, high-level mathematics, electrical engineering, artificial intelligence, machine learning.
+Tracks available: Master of Science in Computer Science.
+
+**Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, deep learning, data mining, web and information retrieval, and others.
 
 <br>
 
