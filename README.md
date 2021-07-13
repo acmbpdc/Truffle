@@ -55,6 +55,16 @@ Building the Largest AI Open Source Community in MENA
 
 ## 💸 Artificial Intelligence (AI): Salaries Heading Skyward
 
+Artificial intelligence salaries benefit from the perfect recipe for a sweet paycheck: a hot field and high demand for scarce talent. It’s the ever-reliable law of supply and demand, and right now, anything artificial intelligence-related is in very high demand.
+
+While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer)
+
+Therefore, to be an effective and in-demand AI developer, you need a lot of skills, not just one or two. Indeed lists the top 10 skills you need to know for AI:
+
+
+
+
+
 <br>
 
 ## ⚙️ Contribution Guidelines 
