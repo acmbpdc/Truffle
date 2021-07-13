@@ -60,8 +60,11 @@ Building the Largest AI Open Source Community in MENA
 While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer). Read more about it [here](https://pub.towardsai.net/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
 Therefore, to be an effective and in-demand AI developer, you need a lot of skills, not just one or two. Here is list of the top 10 skills you need to know for AI:
+
 [1. Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+
 [2. Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
 * [3. Statistics](https://en.wikipedia.org/wiki/Statistical_learning_theory)
 * [4. Data Science](https://en.wikipedia.org/wiki/Data_science)
 * [5. Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
