@@ -50,10 +50,8 @@ Building the Largest AI Open Source Community in MENA
 
 ## 🤖 Overview of Machine Learning
 
-### Data Preprocessing
-
 <details>
-  <summary>**Data Preprocessing**</summary>
+  <summary>Data Preprocessing</summary>
   
 <!--START_SECTION:activity-->  
 1. [`Importing the dataset`](https://www.udemy.com/share/101W8Q/)
@@ -64,9 +62,21 @@ Building the Largest AI Open Source Community in MENA
   
 </details>
 
-| Terminology | Sub-topics |
-|:-------------:|:-------------:|
-| **Data Preprocessing** | Importing the dataset, Missing Data, Categorical Data, Splitting the dataset into Training and Test Set, Feature Scaling |
+<details>
+  <summary>Regression</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Simple Linear Regression`](https://www.udemy.com/share/101W8Q/)
+2. [`Multi-Linear Regression`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [`Polynomial Regression`](https://www.udemy.com/share/101Wai/) 
+4. [`SVR`](https://www.udemy.com/share/101Wa0/) 
+5. [`Desicion Tree`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+6. [`Random Forest`](https://www.udemy.com/share/101Wa0/) 
+
+  
+</details>
+
+
 | **Regression** | Simple Linear, Multi-Linear , Polynomial , SVR, Desicion Tree , Random Forest |
 | **Classification** | Logistic , K-Nearest Neigbors, Support Vector Machine, Kernel SVM, Naive Bayes, Desicion Tree , Random Forest |
 | **Clustering** | K-Means Clustering, Hierarchical Clustering |
