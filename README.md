@@ -46,7 +46,6 @@ Building the Largest AI Open Source Community in MENA
 
 📆&nbsp; More topics coming soon!
 
-<br>
 
 ## 🤖 Overview of Machine Learning
 
@@ -157,7 +156,6 @@ Building the Largest AI Open Source Community in MENA
 
 </details>
 
-<br>
 
 ## 🗺️ Roadmaps
 
