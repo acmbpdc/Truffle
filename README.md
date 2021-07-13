@@ -53,7 +53,7 @@ Building the Largest AI Open Source Community in MENA
 ### Data Preprocessing
 
 <details>
-  <summary>Data Preprocessing</summary>
+  <summary>### Data Preprocessing</summary>
   
 <!--START_SECTION:activity-->  
 1. [`Importing the dataset`](https://www.udemy.com/share/101W8Q/)
