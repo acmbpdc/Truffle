@@ -94,7 +94,7 @@ Tracks available: Masters in Computer Science.
 
 <br>
 
-## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" />
 
 **Program Name**: Masters in Computer Science
 
@@ -109,7 +109,7 @@ Track available: Masters in Computer Science.
 
 <br>
 
-## [Georgia Institute of Technology](https://mktg.best/33gws)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+## [Georgia Institute of Technology](https://mktg.best/33gws)<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/1200px-Georgia_Tech_seal.svg.png" />
 
 **Program Name**: Masters in Computer Science
 
@@ -124,7 +124,7 @@ Tracks available: Masters in Computer Science with a specialization in Machine L
 
 <br>
 
-## [University of Washington](https://mktg.best/mfw2y)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+## [University of Washington](https://mktg.best/mfw2y)<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1200px-University_of_Washington_seal.svg.png" />
 
 **Program Name**: Masters in Computer Science, Master of Science in Data Science.
 
@@ -139,7 +139,7 @@ Focus areas: Machine learning, artificial intelligence, NLP, computer vision, de
 
 <br>
 
-## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)<img align="left" alt="python" width="26px" src="https://deadline.com/wp-content/uploads/2020/02/ucla.jpg?w=681&h=383&crop=1" />
 
 **Program Name**: Masters of Science in Computer Science
 
@@ -154,7 +154,7 @@ Tracks available: Master of Science in Computer Science.
 
 <br>
 
-## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)<img align="left" alt="python" width="26px" src="https://news.illinois.edu/files/6367/543635/116641.jpg" />
 
 **Program Name**: Master of Science in Computer Science
 
