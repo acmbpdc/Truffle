@@ -18,7 +18,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-## [Carnegie Mellon University](https://mktg.best/9d0bf)
+## [Carnegie Mellon University](https://mktg.best/9d0bf)<img align="left" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/wordmarksquare-red-600x600.png" />
 **Program Name**: Master of Science in Machine Learning
 
 **Duration:** 9 months to 2 years
@@ -33,7 +33,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-## [University of California — Berkeley](https://mktg.best/-17zl)
+## [University of California — Berkeley](https://mktg.best/-17zl)<img align="left" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
 **Program Name**: Masters in Data Science, Masters in EECS
 
 **Duration**: 1–2.5+ years
