@@ -53,8 +53,8 @@ Building the Largest AI Open Source Community in MENA
 | Terminology | Sub-topics |
 |:-------------:|:-------------:|
 | **Data Preprocessing** | Importing the dataset, Missing Data, Categorical Data, Splitting the dataset into Training and Test Set, Feature Scaling |
-| **Regression** | Simple Linear Regression, Multi-Linear Regression, Polynomial Regression, SVR, Desicion Tree Regression, Random Forest Regression |
-| **Classification** | Logistic Regression, K-Nearest Neigbors, Support Vector Machine, Kernel SVM, Naive Bayes, Desicion Tree Classification, Random Forest Classification |
+| **Regression** | Simple Linear, Multi-Linear , Polynomial , SVR, Desicion Tree , Random Forest |
+| **Classification** | Logistic , K-Nearest Neigbors, Support Vector Machine, Kernel SVM, Naive Bayes, Desicion Tree , Random Forest |
 | **Clustering** | K-Means Clustering, Hierarchical Clustering |
 | **Association Rule Learning** | Apriori, Eclat |
 | **Reinforcement Learning** | Upper Confidence Bound (UCB), Thompson Sampling |
