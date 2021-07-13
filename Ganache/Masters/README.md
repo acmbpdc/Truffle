@@ -18,7 +18,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-## [Carnegie Mellon University](https://mktg.best/9d0bf)<img align="left" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/wordmarksquare-red-600x600.png" />
+## [Carnegie Mellon University](https://mktg.best/9d0bf)<img align="left" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" />
 **Program Name**: Master of Science in Machine Learning
 
 **Duration:** 9 months to 2 years
@@ -33,7 +33,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-## [University of California — Berkeley](https://mktg.best/-17zl)<img align="left" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
+## [University of California — Berkeley](https://mktg.best/-17zl)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 **Program Name**: Masters in Data Science, Masters in EECS
 
 **Duration**: 1–2.5+ years
@@ -64,7 +64,7 @@ Tracks available: Masters in Data Science, Masters in EECS with a focus on machi
 
 <br>
 
-## [Massachusetts Institute of Technology](https://mktg.best/5sit7)
+## [Massachusetts Institute of Technology](https://mktg.best/5sit7)<img align="left" alt="python" width="26px" src="https://download.logo.wine/logo/Massachusetts_Institute_of_Technology/Massachusetts_Institute_of_Technology-Logo.wine.png" />
 **Program Name**: Master of Science in EECS
 
 **Duration**: 1–2+ years
@@ -79,7 +79,7 @@ Tracks available: Masters in EECS with a focus on machine learning.
 
 <br>
 
-## [Cornell University](https://mktg.best/ap3bg)
+## [Cornell University](https://mktg.best/ap3bg)<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png" />
 
 **Program Name**: Masters in Computer Science
 
@@ -94,7 +94,7 @@ Tracks available: Masters in Computer Science.
 
 <br>
 
-## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)
+## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 **Program Name**: Masters in Computer Science
 
@@ -109,7 +109,7 @@ Track available: Masters in Computer Science.
 
 <br>
 
-## [Georgia Institute of Technology](https://mktg.best/33gws)
+## [Georgia Institute of Technology](https://mktg.best/33gws)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 **Program Name**: Masters in Computer Science
 
@@ -124,7 +124,7 @@ Tracks available: Masters in Computer Science with a specialization in Machine L
 
 <br>
 
-## [University of Washington](https://mktg.best/mfw2y)
+## [University of Washington](https://mktg.best/mfw2y)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 **Program Name**: Masters in Computer Science, Master of Science in Data Science.
 
@@ -139,7 +139,7 @@ Focus areas: Machine learning, artificial intelligence, NLP, computer vision, de
 
 <br>
 
-## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)
+## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 **Program Name**: Masters of Science in Computer Science
 
@@ -154,7 +154,7 @@ Tracks available: Master of Science in Computer Science.
 
 <br>
 
-## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)
+## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 **Program Name**: Master of Science in Computer Science
 
