@@ -48,27 +48,21 @@ Building the Largest AI Open Source Community in MENA
 
 <br>
 
-## 🤖 Machine Learning
+## 🤖 Overview of Machine Learning
 
-### Data Preprocessing 
+| Terminology | Sub-topics |
+|:-------------:|:-------------:|
+| **Data Preprocessing** | February 1991 |
+| **Regression** | February 1991 |
+| **Classification** | February 1991 |
+| **Clustering** | February 1991 |
+| **Association Rule Learning** | February 1991 |
+| **Reinforcement Learning** | February 1991 |
+| **Natural Language Processing** | February 1991 |
+| **Deep Learning** | February 1991 |
+| **Dimensionality Reduction** | February 1991 |
+| **Model Selection & Boosting** | February 1991 |
 
-### Regression
-
-### Classification
-
-### Clustering
-
-### Association Rule Learning
-
-### Reinforcement Learning
-
-### Natural Language Processing
-
-### Deep Learning
-
-### Dimensionality Reduction
-
-### Model Selection & Boosting
 
 <br>
 
