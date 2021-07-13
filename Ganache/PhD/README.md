@@ -17,12 +17,15 @@ These are the best universities to pursue a Ph.D. in machine learning, with rese
 | 10 | [University of Washington](#uw) | 6 | Ph.D. in Computer Science |
 
 <br>
+
 ## [Carnegie Mellon University](https://mktg.best/9d0bf)<img align="left" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" />
 
 
 <br>
 
 ## [University of California — Berkeley](https://mktg.best/-17zl)<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+
+<br>
 
 ## [Stanford University](https://mktg.best/mejob) <img align="left" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
 
