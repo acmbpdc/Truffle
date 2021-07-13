@@ -31,6 +31,59 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 **Focus areas**: Machine learning, artificial intelligence, NLP, computer vision, robotics, deep learning, data mining, web and information retrieval, computer science, and others.
 
+<br>
+
+## [University of California — Berkeley](https://mktg.best/-17zl)
+
+
+
+<br>
+
+## [Stanford University](https://mktg.best/mejob)
+
+
+
+<br>
+
+## [Massachusetts Institute of Technology](https://mktg.best/5sit7)
+
+
+
+<br>
+
+## [Cornell University](https://mktg.best/ap3bg)
+
+
+
+<br>
+
+## [University of California — San Diego (UCSD)](https://mktg.best/nlnip)
+
+
+
+<br>
+
+## [Georgia Institute of Technology](https://mktg.best/33gws)
+
+
+
+<br>
+
+## [University of Washington](https://mktg.best/mfw2y)
+
+
+
+<br>
+
+## [University of California — Los Angeles (UCLA)](https://mktg.best/vu9av)
+
+
+
+<br>
+
+## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)
+
+
 
 <br>
 
