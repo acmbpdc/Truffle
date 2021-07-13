@@ -53,14 +53,14 @@ Building the Largest AI Open Source Community in MENA
 ### Data Preprocessing
 
 <details>
-  <summary>### Data Preprocessing</summary>
+  <summary>**Data Preprocessing**</summary>
   
 <!--START_SECTION:activity-->  
 1. [`Importing the dataset`](https://www.udemy.com/share/101W8Q/)
-2. [Missing Data](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
-3. [Categorical Data](https://www.udemy.com/share/101Wai/) 
-4. [Splitting the dataset into Training and Test Set](https://www.udemy.com/share/101Wa0/) 
-5. [Feature Scaling](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+2. [`Missing Data`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [`Categorical Data`](https://www.udemy.com/share/101Wai/) 
+4. [`Splitting the dataset into Training and Test Set`](https://www.udemy.com/share/101Wa0/) 
+5. [`Feature Scaling`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
   
 </details>
 
