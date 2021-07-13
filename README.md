@@ -179,7 +179,7 @@ The purpose of these roadmaps is to give you an idea about the landscape and to 
 
 [`Artificial intelligence`](https://en.wikipedia.org/wiki/Artificial_intelligence) salaries benefit from the perfect recipe for a sweet paycheck: a hot field and high demand for scarce talent. It’s the ever-reliable law of supply and demand, and right now, anything artificial intelligence-related is in very high demand.
 
-While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer). Read more about it [here](https://pub.towardsai.net/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
+While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer). Read more about it [here](https://pub.towardsai.net/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d).
 
 Therefore, to be an effective and in-demand AI developer, you need a lot of skills, not just one or two. Here is list of the top 10 skills you need to know for AI:
 
@@ -226,10 +226,7 @@ You can find our Code of Conduct [here](./Code_Of_Conduct.md).
 <a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-[website]: http://ai-bits.com/
-[gmail]: http://ai-bits.com/
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/company/ai-bits/
+
 
 
 
