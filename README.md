@@ -57,13 +57,19 @@ Building the Largest AI Open Source Community in MENA
 
 [`Artificial intelligence`](https://en.wikipedia.org/wiki/Artificial_intelligence) salaries benefit from the perfect recipe for a sweet paycheck: a hot field and high demand for scarce talent. It’s the ever-reliable law of supply and demand, and right now, anything artificial intelligence-related is in very high demand.
 
-While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer)
+While the average salary for a Software Engineer is around $100,000 to $150,000, to make the big bucks you want to be an AI or Machine Learning (Specialist/Scientist/Engineer). Read more about it [here](https://pub.towardsai.net/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
 Therefore, to be an effective and in-demand AI developer, you need a lot of skills, not just one or two. Here is list of the top 10 skills you need to know for AI:
-
-
-
-
+* [1. Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [2. Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [3. Statistics](https://en.wikipedia.org/wiki/Statistical_learning_theory)
+* [4. Data Science](https://en.wikipedia.org/wiki/Data_science)
+* [5. Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
+* [6. Big Data](https://en.wikipedia.org/wiki/Big_data)
+* [7. Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+* [8. Data Mining](https://en.wikipedia.org/wiki/Data_mining)
+* [9. Spark](https://en.wikipedia.org/wiki/Apache_Spark)
+* [10. R](https://en.wikipedia.org/wiki/R_(programming_language))
 
 <br>
 
