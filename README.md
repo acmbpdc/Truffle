@@ -44,8 +44,22 @@ Building the Largest AI Open Source Community in MENA
 *   [Cheat Sheets](./Ganache/CheatSheets)
 *   [Blogs](./Ganache/Blogs)
 
-📆&nbsp; More topics coming soon!<br>
+📆&nbsp; More topics coming soon!
 
+<br>
+
+## 🗺️ Roadmaps
+
+The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+
+*   [`Data Science Roadmap`](https://i.am.ai/roadmap/#data-science-roadmap)
+*   [`Machine Learning Roadmap`](https://i.am.ai/roadmap/#machine-learning-roadmap)
+*   [`Deep Learning Roadmap`](https://i.am.ai/roadmap/#deep-learning-roadmap)
+*   [`Data Engineer Roadmap`](https://i.am.ai/roadmap/#data-engineer-roadmap)
+*   [`Big Data Engineer Roadmap`](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
+
+
+<br>
 
 ## 🎓 Higher Degrees
 *   [Best Master's Programs](./Ganache/Masters)
