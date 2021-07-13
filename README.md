@@ -50,7 +50,7 @@ Building the Largest AI Open Source Community in MENA
 
 ## 🗺️ Roadmaps
 
-The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job.
 
 *   [`Data Science Roadmap`](https://i.am.ai/roadmap/#data-science-roadmap)
 *   [`Machine Learning Roadmap`](https://i.am.ai/roadmap/#machine-learning-roadmap)
@@ -59,13 +59,13 @@ The purpose of these roadmaps is to give you an idea about the landscape and to 
 *   [`Big Data Engineer Roadmap`](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 
 
-<br>
+
 
 ## 🎓 Higher Degrees
-*   [Best Master's Programs](./Ganache/Masters)
-*   [Best Ph.D. Programs](./Ganache/PhD)
+*   [`Best Master's Programs`](./Ganache/Masters)
+*   [`Best Ph.D. Programs`](./Ganache/PhD)
 
-<br>
+
 
 ## 💸 Artificial Intelligence (AI): Salaries Heading Skyward
 
@@ -95,7 +95,7 @@ Therefore, to be an effective and in-demand AI developer, you need a lot of skil
  
 [10. R](https://en.wikipedia.org/wiki/R_(programming_language))
 
-<br>
+
 
 ## ⚙️ Contribution Guidelines 
 * Contributions are always welcome! 
