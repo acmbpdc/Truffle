@@ -76,17 +76,86 @@ Building the Largest AI Open Source Community in MENA
   
 </details>
 
+<details>
+  <summary>Classification</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Logistic Classification`](https://www.udemy.com/share/101W8Q/)
+2. [`K-Nearest Neigbors`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [`Support Vector Machine`](https://www.udemy.com/share/101Wai/) 
+4. [`Kernel SVM`](https://www.udemy.com/share/101Wa0/) 
+5. [`Naive Bayes`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+6. [`Desicion Tree`](https://www.udemy.com/share/101Wa0/) 
+7. [`Random Forest`](https://www.udemy.com/share/101Wa0/)
+  
+</details>
 
-| **Regression** | Simple Linear, Multi-Linear , Polynomial , SVR, Desicion Tree , Random Forest |
-| **Classification** | Logistic , K-Nearest Neigbors, Support Vector Machine, Kernel SVM, Naive Bayes, Desicion Tree , Random Forest |
-| **Clustering** | K-Means Clustering, Hierarchical Clustering |
-| **Association Rule Learning** | Apriori, Eclat |
-| **Reinforcement Learning** | Upper Confidence Bound (UCB), Thompson Sampling |
-| **Natural Language Processing** | February 1991 |
-| **Deep Learning** | Artificial Neural Networks, Convolutional Neural Network |
-| **Dimensionality Reduction** | Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Kernal PCA |
-| **Model Selection & Boosting** | K-Fold Cross Validation, Grid Search, XG-Boost |
+<details>
+  <summary>Clustering</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`K-Means Clustering`](https://www.udemy.com/share/101W8Q/)
+2. [`Hierarchical Clustering`](https://www.codecademy.com/learn) 
 
+</details>
+
+<details>
+  <summary>Association Rule Learning</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Apriori`](https://www.udemy.com/share/101W8Q/)
+2. [`Eclat`](https://www.codecademy.com/learn) 
+
+</details>
+
+<details>
+  <summary>Reinforcement Learning</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Upper Confidence Bound (UCB)`](https://www.udemy.com/share/101W8Q/)
+2. [`Thompson Sampling`](https://www.codecademy.com/learn) 
+
+</details>
+
+<details>
+  <summary>Natural Language Processing</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Upper Confidence Bound (UCB)`](https://www.udemy.com/share/101W8Q/)
+2. [`Thompson Sampling`](https://www.codecademy.com/learn) 
+
+</details>
+
+<details>
+  <summary>Deep Learning</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Artificial Neural Networks`](https://www.udemy.com/share/101W8Q/)
+2. [`Convolutional Neural Network`](https://www.codecademy.com/learn) 
+
+</details>
+
+<details>
+  <summary>Dimensionality Reduction</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`Principal Component Analysis (PCA)`](https://www.udemy.com/share/101W8Q/)
+2. [`Linear Discriminant Analysis (LDA)`](https://www.codecademy.com/learn) 
+3. [`Kernal PCA`](https://www.codecademy.com/learn) 
+    
+
+</details>
+
+<details>
+  <summary>Dimensionality Reduction</summary>
+  
+<!--START_SECTION:activity-->  
+1. [`K-Fold Cross Validation`](https://www.udemy.com/share/101W8Q/)
+2. [`Grid Search`](https://www.codecademy.com/learn) 
+3. [`XG-Boost`](https://www.codecademy.com/learn) 
+    
+
+</details>
 
 <br>
 
