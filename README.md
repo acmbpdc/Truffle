@@ -54,11 +54,11 @@ Building the Largest AI Open Source Community in MENA
   <summary>Data Preprocessing</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Importing the dataset`](https://www.udemy.com/share/101W8Q/)
-2. [`Missing Data`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
-3. [`Categorical Data`](https://www.udemy.com/share/101Wai/) 
-4. [`Splitting the dataset into Training and Test Set`](https://www.udemy.com/share/101Wa0/) 
-5. [`Feature Scaling`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+1. [Importing the dataset](https://www.udemy.com/share/101W8Q/)
+2. [Missing Data](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [Categorical Data](https://www.udemy.com/share/101Wai/) 
+4. [Splitting the dataset into Training and Test Set](https://www.udemy.com/share/101Wa0/) 
+5. [Feature Scaling](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
   
 </details>
 
@@ -66,12 +66,12 @@ Building the Largest AI Open Source Community in MENA
   <summary>Regression</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Simple Linear Regression`](https://www.udemy.com/share/101W8Q/)
-2. [`Multi-Linear Regression`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
-3. [`Polynomial Regression`](https://www.udemy.com/share/101Wai/) 
-4. [`SVR`](https://www.udemy.com/share/101Wa0/) 
-5. [`Desicion Tree`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
-6. [`Random Forest`](https://www.udemy.com/share/101Wa0/) 
+1. [Simple Linear Regression](https://www.udemy.com/share/101W8Q/)
+2. [Multi-Linear Regression](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [Polynomial Regression](https://www.udemy.com/share/101Wai/) 
+4. [SVR](https://www.udemy.com/share/101Wa0/) 
+5. [Desicion Tree](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+6. [Random Forest](https://www.udemy.com/share/101Wa0/) 
 
   
 </details>
@@ -80,13 +80,13 @@ Building the Largest AI Open Source Community in MENA
   <summary>Classification</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Logistic Classification`](https://www.udemy.com/share/101W8Q/)
-2. [`K-Nearest Neigbors`](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
-3. [`Support Vector Machine`](https://www.udemy.com/share/101Wai/) 
-4. [`Kernel SVM`](https://www.udemy.com/share/101Wa0/) 
-5. [`Naive Bayes`](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
-6. [`Desicion Tree`](https://www.udemy.com/share/101Wa0/) 
-7. [`Random Forest`](https://www.udemy.com/share/101Wa0/)
+1. [Logistic Classification](https://www.udemy.com/share/101W8Q/)
+2. [K-Nearest Neigbors](https://www.codecademy.com/learn/learn-python-3?utm_source=pepperjam&utm_medium=affiliate&utm_term=214552&clickId=3619867541&pj_creativeid=8-12462&pj_publisherid=214552) 
+3. [Support Vector Machine](https://www.udemy.com/share/101Wai/) 
+4. [Kernel SVM](https://www.udemy.com/share/101Wa0/) 
+5. [Naive Bayes](https://www.coursera.org/specializations/python?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&siteID=jU79Zysihs4-ywEWvYlpnbAUyqausicRxw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) 
+6. [Desicion Tree](https://www.udemy.com/share/101Wa0/) 
+7. [Random Forest](https://www.udemy.com/share/101Wa0/)
   
 </details>
 
@@ -94,8 +94,8 @@ Building the Largest AI Open Source Community in MENA
   <summary>Clustering</summary>
   
 <!--START_SECTION:activity-->  
-1. [`K-Means Clustering`](https://www.udemy.com/share/101W8Q/)
-2. [`Hierarchical Clustering`](https://www.codecademy.com/learn) 
+1. [K-Means Clustering](https://www.udemy.com/share/101W8Q/)
+2. [Hierarchical Clustering](https://www.codecademy.com/learn) 
 
 </details>
 
@@ -103,8 +103,8 @@ Building the Largest AI Open Source Community in MENA
   <summary>Association Rule Learning</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Apriori`](https://www.udemy.com/share/101W8Q/)
-2. [`Eclat`](https://www.codecademy.com/learn) 
+1. [Apriori](https://www.udemy.com/share/101W8Q/)
+2. [Eclat](https://www.codecademy.com/learn) 
 
 </details>
 
@@ -112,8 +112,8 @@ Building the Largest AI Open Source Community in MENA
   <summary>Reinforcement Learning</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Upper Confidence Bound (UCB)`](https://www.udemy.com/share/101W8Q/)
-2. [`Thompson Sampling`](https://www.codecademy.com/learn) 
+1. [Upper Confidence Bound (UCB)](https://www.udemy.com/share/101W8Q/)
+2. [Thompson Sampling](https://www.codecademy.com/learn) 
 
 </details>
 
@@ -121,8 +121,8 @@ Building the Largest AI Open Source Community in MENA
   <summary>Natural Language Processing</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Upper Confidence Bound (UCB)`](https://www.udemy.com/share/101W8Q/)
-2. [`Thompson Sampling`](https://www.codecademy.com/learn) 
+1. [Upper Confidence Bound (UCB)](https://www.udemy.com/share/101W8Q/)
+2. [Thompson Sampling](https://www.codecademy.com/learn) 
 
 </details>
 
@@ -130,8 +130,8 @@ Building the Largest AI Open Source Community in MENA
   <summary>Deep Learning</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Artificial Neural Networks`](https://www.udemy.com/share/101W8Q/)
-2. [`Convolutional Neural Network`](https://www.codecademy.com/learn) 
+1. [Artificial Neural Networks](https://www.udemy.com/share/101W8Q/)
+2. [Convolutional Neural Network](https://www.codecademy.com/learn) 
 
 </details>
 
@@ -139,9 +139,9 @@ Building the Largest AI Open Source Community in MENA
   <summary>Dimensionality Reduction</summary>
   
 <!--START_SECTION:activity-->  
-1. [`Principal Component Analysis (PCA)`](https://www.udemy.com/share/101W8Q/)
-2. [`Linear Discriminant Analysis (LDA)`](https://www.codecademy.com/learn) 
-3. [`Kernal PCA`](https://www.codecademy.com/learn) 
+1. [Principal Component Analysis (PCA)](https://www.udemy.com/share/101W8Q/)
+2. [Linear Discriminant Analysis (LDA)](https://www.codecademy.com/learn) 
+3. [Kernal PCA](https://www.codecademy.com/learn) 
     
 
 </details>
@@ -150,9 +150,9 @@ Building the Largest AI Open Source Community in MENA
   <summary>Dimensionality Reduction</summary>
   
 <!--START_SECTION:activity-->  
-1. [`K-Fold Cross Validation`](https://www.udemy.com/share/101W8Q/)
-2. [`Grid Search`](https://www.codecademy.com/learn) 
-3. [`XG-Boost`](https://www.codecademy.com/learn) 
+1. [K-Fold Cross Validation](https://www.udemy.com/share/101W8Q/)
+2. [Grid Search](https://www.codecademy.com/learn) 
+3. [XG-Boost](https://www.codecademy.com/learn) 
     
 
 </details>
