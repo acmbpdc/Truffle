@@ -147,7 +147,7 @@ Building the Largest AI Open Source Community in MENA
 </details>
 
 <details>
-  <summary>Dimensionality Reduction</summary>
+  <summary>Model Selection & Boosting</summary>
   
 <!--START_SECTION:activity-->  
 1. [K-Fold Cross Validation](https://www.udemy.com/share/101W8Q/)
