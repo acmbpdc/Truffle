@@ -52,16 +52,16 @@ Building the Largest AI Open Source Community in MENA
 
 | Terminology | Sub-topics |
 |:-------------:|:-------------:|
-| **Data Preprocessing** | February 1991 |
-| **Regression** | February 1991 |
-| **Classification** | February 1991 |
-| **Clustering** | February 1991 |
-| **Association Rule Learning** | February 1991 |
-| **Reinforcement Learning** | February 1991 |
+| **Data Preprocessing** | Importing the dataset, Missing Data, Categorical Data, Splitting the dataset into Training and Test Set, Feature Scaling |
+| **Regression** | Simple Linear Regression, Multi-Linear Regression, Polynomial Regression, SVR, Desicion Tree Regression, Random Forest Regression |
+| **Classification** | Logistic Regression, K-Nearest Neigbors, Support Vector Machine, Kernel SVM, Naive Bayes, Desicion Tree Classification, Random Forest Classification |
+| **Clustering** | K-Means Clustering, Hierarchical Clustering |
+| **Association Rule Learning** | Apriori, Eclat |
+| **Reinforcement Learning** | Upper Confidence Bound (UCB), Thompson Sampling |
 | **Natural Language Processing** | February 1991 |
-| **Deep Learning** | February 1991 |
-| **Dimensionality Reduction** | February 1991 |
-| **Model Selection & Boosting** | February 1991 |
+| **Deep Learning** | Artificial Neural Networks, Convolutional Neural Network |
+| **Dimensionality Reduction** | Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Kernal PCA |
+| **Model Selection & Boosting** | K-Fold Cross Validation, Grid Search, XG-Boost |
 
 
 <br>
