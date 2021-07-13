@@ -65,14 +65,21 @@ Therefore, to be an effective and in-demand AI developer, you need a lot of skil
 
 [2. Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-* [3. Statistics](https://en.wikipedia.org/wiki/Statistical_learning_theory)
-* [4. Data Science](https://en.wikipedia.org/wiki/Data_science)
-* [5. Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
-* [6. Big Data](https://en.wikipedia.org/wiki/Big_data)
-* [7. Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-* [8. Data Mining](https://en.wikipedia.org/wiki/Data_mining)
-* [9. Spark](https://en.wikipedia.org/wiki/Apache_Spark)
-* [10. R](https://en.wikipedia.org/wiki/R_(programming_language))
+[3. Statistics](https://en.wikipedia.org/wiki/Statistical_learning_theory)
+
+[4. Data Science](https://en.wikipedia.org/wiki/Data_science)
+
+[5. Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
+
+[6. Big Data](https://en.wikipedia.org/wiki/Big_data)
+
+[7. Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+
+[8. Data Mining](https://en.wikipedia.org/wiki/Data_mining)
+ 
+[9. Spark](https://en.wikipedia.org/wiki/Apache_Spark)
+ 
+[10. R](https://en.wikipedia.org/wiki/R_(programming_language))
 
 <br>
 
