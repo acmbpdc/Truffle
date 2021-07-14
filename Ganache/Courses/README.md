@@ -6,10 +6,10 @@
 *   [Udemy](#udemy)
 *   [Udacity](#udacity)
 *   [edX](#edx)
-*   [Others](#others)
 *   [Massive Open Online Courses (Free)](#moocs)
 *   [Youtube Channels](#youtube)
-
+*   [Others](#others)
+*  
 <br>
 
 ## Coursera <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
