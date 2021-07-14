@@ -94,7 +94,8 @@ Developed by John Hunter, Matplotlib is one of the most common libraries in the 
 ## Numpy <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
 Developed by Travis Oliphant in 2015, NumPy or Numerical Python is a fundamental library for mathematical and scientific computations. The open-source software has functions of linear algebra, Fourier transform, and matrix computations and is mainly used for applications where speed and resources are important. NumPy aims to provide array objects 50x faster than traditional Python lists. 
 
-Data science libraries including SciPy, Matplotlib, Pandas, Scikit-Learn and Statsmodels are built on top of NumPy. 
+Data science libraries including SciPy, Matplotlib, Pandas, Scikit-Learn and Statsmodels are built on top of NumPy.
+
 [Website](https://numpy.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
 
 [GitHub](https://github.com/numpy)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
