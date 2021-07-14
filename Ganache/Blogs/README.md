@@ -1,7 +1,7 @@
 # Blogs
 ### By Towards AI Team
 
-Towards AI is a data-driven community that discusses artificial intelligence, data science, data visualization, deep learning, machine learning, NLP, computer vision, related news, robotics, self-driving cars, programming, technology, and more! You can join them [here](https://towardsai.net/backers) 🤖 
+Towards AI is a data-driven community that discusses artificial intelligence, data science, data visualization, deep learning, machine learning, NLP, computer vision, related news, robotics, self-driving cars, programming, technology, and more! You can join them [here](https://towardsai.net/backers). 
 
 Please know that the blogs listed below are by no means ranked or in a particular order. They are all incredible sources of machine learning research.
 
