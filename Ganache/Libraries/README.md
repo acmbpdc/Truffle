@@ -82,7 +82,7 @@ Keras offers utilities for compiling models, graph visualisation and dataset ana
 
 <br>
 
-## Matplotlib 
+## Matplotlib <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
 Developed by John Hunter, Matplotlib is one of the most common libraries in the Python community. It is used for creating static, animated and interactive data visualisations. Matplotlib provides endless customisation and charts. It enables developers to use histograms to scatter, customise and configure plots. The open-source library offers an object-oriented API for integrating plots into applications.
 
 [Website](https://matplotlib.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
