@@ -1,6 +1,6 @@
 # Frameworks
 
-Machine learning relies on algorithms. Unless you’re a data scientist or ML expert, these algorithms are very complicated to understand and work with.
+Machine Learning relies on algorithms. Unless you’re a data scientist or ML expert, these algorithms are very complicated to understand and work with.
 
 A machine learning framework, then, simplifies machine learning algorithms. An ML framework is any tool, interface, or library that lets you develop ML models easily, without understanding the underlying algorithms.
 
