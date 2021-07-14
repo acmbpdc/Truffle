@@ -42,7 +42,7 @@ There are a variety of machine learning frameworks, geared at different purposes
 <br>
 
 ## TensorFlow <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
+TensorFlow is one of the best framework available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
