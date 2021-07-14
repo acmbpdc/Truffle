@@ -48,6 +48,9 @@ Building the Largest AI Open Source Community in MENA
 
 ## 🤖 Overview of Machine Learning
 
+ <img align="center" alt="AI" src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png" width="700" height="300" />
+
+
 <details>
   <summary>Data Preprocessing</summary>
   
