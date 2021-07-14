@@ -19,9 +19,10 @@ Building the Largest AI Open Source Community in MENA
 # Project Truffle
 This is project Truffle. Here's how to eat it:
 
-*   Take a small bite by exploring the contents listed below.
-*   Be patient. Let the truffle melt as it enriches you with the knowledge of AI.
-*   Have another bite... We have a lot to offer. Start your AI journey by having a Truffle.
+*   _Take a small bite by exploring the contents listed below._
+*   _Be patient. Let the truffle melt as it enriches you with the knowledge of AI._
+*   _Have another bite... We have a lot to offer!_ 
+*   _Start your AI journey by having a Truffle._
 
 <br>
 
