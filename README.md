@@ -126,15 +126,6 @@ This is **project Truffle**. Here's how to eat it:
 </details>
 
 <details>
-  <summary>Natural Language Processing</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Upper Confidence Bound (UCB)](https://www.udemy.com/share/101W8Q/)
-2. [Thompson Sampling](https://www.codecademy.com/learn) 
-
-</details>
-
-<details>
   <summary>Deep Learning</summary>
   
 <!--START_SECTION:activity-->  
