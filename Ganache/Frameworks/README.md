@@ -57,9 +57,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](http://caffe.berkeleyvision.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/BVLC/caffe) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -68,9 +68,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://www.h2o.ai/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/h2oai) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -79,9 +79,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://spark.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://gitbox.apache.org/repos/asf?p=spark.git) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -90,9 +90,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://www.microsoft.com/en-us/cognitive-toolkit/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/Microsoft/CNTK) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -101,9 +101,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](http://www.accord-framework.net/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/accord-net/framework) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -112,9 +112,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://mahout.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://gitbox.apache.org/repos/asf/mahout.git) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -123,9 +123,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://mxnet.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/apache/incubator-mxnet) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -134,9 +134,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://onnx.ai/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/onnx/onnx) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -145,9 +145,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://dask.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/dask/dask) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -156,9 +156,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://mlflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/mlflow/mlflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
@@ -167,9 +167,9 @@ TensorFlow is one of the best library available for working with Machine Learnin
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
 
-[Website](https://www.tensorflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
+[Website](https://chainer.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
-[GitHub](https://github.com/tensorflow) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+[GitHub](https://github.com/chainer/chainer) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  
  
 <br>
 
