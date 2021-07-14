@@ -53,9 +53,9 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Caffe <img align="left" alt="python" width="26px" src="https://media-thumbs.golden.com/QHEbw-lIT2RP_px2Y95gMhHyRHs=/200x200/smart/golden-media.s3.amazonaws.com%2Ftopic_images%2Ff05d070db2c34011b0a47a3cb8160307.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
+CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework, originally developed at University of California, Berkeley.
 
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Caffe supports many different types of deep learning architectures geared towards image classification and image segmentation. It supports CNN, RCNN, LSTM and fully connected neural network designs.Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL
 
 [Website](http://caffe.berkeleyvision.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -64,9 +64,9 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## H2O <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/H2O_logo_from_H2O.ai.png/220px-H2O_logo_from_H2O.ai.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
+H2O implements algorithms from the field of statistics , data mining and machine learning ( generalized linear models , K-Means , Random Forest , Gradient Boosting and Deep Learning ). The software is based on the Hadoop Distributed File System , so that a performance gain is achieved compared to other analysis tools. 
 
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+H2O can be viewed graphically using a web browsercan be operated or used via interfaces with R , Python , Apache Hadoop and Spark and executed in Maven .
 
 [Website](https://www.h2o.ai/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -75,9 +75,9 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Apache Spark <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/apachespark.svg" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
+Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. 
 
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Originally developed at the University of California, Berkeley's AMPLab, the Spark codebase was later donated to the Apache Software Foundation, which has maintained it since.
 
 [Website](https://spark.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -86,9 +86,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Microsoft CNTK <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Microsoft Cognitive Toolkit, previously known as CNTK and sometimes styled as The Microsoft Cognitive Toolkit, is a deprecated deep learning framework developed by Microsoft Research. Microsoft Cognitive Toolkit describes neural networks as a series of computational steps via a directed graph.
 
 [Website](https://www.microsoft.com/en-us/cognitive-toolkit/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -97,9 +95,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Accord .NET <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/dotnet.svg" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+The framework comprises a set of libraries that are available in source code as well as via executable installers and NuGet packages. The main areas covered include numerical linear algebra, numerical optimization, statistics, machine learning, artificial neural networks, signal and image processing, and support libraries (such as graph plotting and visualization).
 
 [Website](http://www.accord-framework.net/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -108,9 +104,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Apache Mahout <img align="left" alt="python" width="26px" src="https://www.static-contents.youth4work.com/ed/vDocuments/Education/PreviewPic/446bcf7e-6a4a-461b-aacd-7c6ad7516c49.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Apache Mahout is a project of the Apache Software Foundation to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra. In the past, many of the implementations use the Apache Hadoop platform, however today it is primarily focused on Apache Spark. Mahout also provides Java/Scala libraries for common maths operations (focused on linear algebra and statistics) and primitive Java collections. Mahout is a work in progress; a number of algorithms have been implemented.
 
 [Website](https://mahout.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -119,9 +113,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## MXNet <img align="left" alt="python" width="26px" src="http://naolink.com/wp-content/uploads/2020/12/MXNET.jpg" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Apache MXNet is an open-source deep learning software framework, used to train, and deploy deep neural networks. It is scalable, allowing for fast model training, and supports a flexible programming model and multiple programming languages (including C++, Python, Java, Julia, Matlab, JavaScript, Go, R, Scala, Perl, and Wolfram Language.)
 
 [Website](https://mxnet.apache.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -130,9 +122,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## ONNX <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/onnx.svg" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector.
 
 [Website](https://onnx.ai/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -141,9 +131,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## DASK <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dask_logo.svg/1200px-Dask_logo.svg.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Dask is a library composed of two parts. It includes a task scheduling component for building dependency graphs and scheduling tasks. Second, it includes the distributed data structures with APIs similar to Pandas Dataframes or NumPy arrays. Dask has a variety of use cases and can be run with a single node and scale to thousand node clusters.
 
 [Website](https://dask.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -152,9 +140,7 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## MLFlow <img align="left" alt="python" width="26px" src="https://databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
-
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+MlFlow is a framework that supports the machine learning lifecycle. This means that it has components to monitor your model during training and running, ability to store models, load the model in production code and create a pipeline. The framework introduces 3 distinct features each with it's own capabilities.
 
 [Website](https://mlflow.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
@@ -163,9 +149,9 @@ Using TensorFlow, you can create and train ML models on not just computers but a
 <br>
 
 ## Chainer <img align="left" alt="python" width="26px" src="https://cdn.algorithmia.com/developers/images/language_logos/chainer.png" />
-TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
+Chainer is an open source deep learning framework written purely in Python on top of NumPy and CuPy Python libraries. The development is led by Japanese venture company Preferred Networks in partnership with IBM, Intel, Microsoft, and Nvidia.
 
-Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
+Chainer is notable for its early adoption of "define-by-run" scheme, as well as its performance on large scale systems. The first version was released in June 2015 and has gained large popularity in Japan since then. Furthermore, in 2017, it was listed by KDnuggets in top 10 open source machine learning Python projects.
 
 [Website](https://chainer.org/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  
 
