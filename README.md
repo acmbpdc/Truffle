@@ -24,7 +24,7 @@ This is **project Truffle**. Here's how to eat it:
 *   **_Have another bite... We have a lot to offer!_** 
 *   **_Start your AI journey by having a Truffle._**
 
-<br>
+
 
 ## Clearing the Confusion: AI vs ML vs DL
 
