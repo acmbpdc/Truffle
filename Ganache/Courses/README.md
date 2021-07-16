@@ -104,6 +104,7 @@ List of Youtube Channels of leading and most reputed personalities/ authors/ pro
 *  [Introduction to Machine Learning for Coders](https://www.fast.ai/2018/09/26/ml-launch/) by Fast.ai
 *  [AI Education](https://ai.google/education/) by Google
 *  [Introduction to Data Science](https://www.thisismetis.com/courses/introduction-to-data-science) by Metis
+*  [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow) by Freecodecamp
 
 <br>
 
