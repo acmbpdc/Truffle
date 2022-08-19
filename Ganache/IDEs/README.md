@@ -194,7 +194,7 @@ Atom is an excellent IDE for ML & DS professionals which supports many other lan
 ## Rodeo
 Of all the IDEs for data science and machine learning, Rodeo is one of those that is the most versatile. This particular IDE uses IPython kernel and was authored by Yhat. It is famous for its ability to let users explore, compare, and interact with data frames and plots. Thought, Rodeo has not been updated for the last time.
 * [Documentation](https://github.com/yhat/rodeo) 📃
-* [Installation](https://fileproto.com/download-rodeo-on-pc/) 📌
+* See GitHub Page for Installation Guidelines, Rodeo has not been under development for some time, see the GitHub page link above for more information.
 
 <details>
   <summary>Youtube 📹</summary>
