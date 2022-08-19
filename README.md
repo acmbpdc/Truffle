@@ -210,12 +210,9 @@ You can find our Code of Conduct [here](https://github.com/acmbpdc/.github/blob/
 
 ## 🤝 How to Share
 
-+ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/aacmbpdc/Truffle)
++ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/acmbpdc/Truffle)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acmbpdc/Truffle&summary=&source=)
 
 ## 🧑‍🤝‍🧑 Connect with us:
 
-<a href="https://www.instagram.com/acmbpdc/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://github.com/acmbpdc" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://acmbpdc.org/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-<a href="https://www.facebook.com/acmbpdc/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://github.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-171515?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://acmbpdc.org"><img src="https://img.shields.io/badge/ACMBPDC-0092CF?style=for-the-badge&logo=acm&logoColor=white"></a> <a href="https://instagram.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://discord.gg/DYQdxquYwP"><img src="https://img.shields.io/badge/ACMBPDC-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://facebook.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://twitter.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
