@@ -4,9 +4,9 @@ While there are a lot of languages to pick from, Python is among the most develo
 Here is a list of [`Libraries`](https://en.wikipedia.org/wiki/Library_(computing)) most widely used for [`Machine Learning`](https://en.wikipedia.org/wiki/Machine_learning), [`Artificial Intelligence`](https://en.wikipedia.org/wiki/Artificial_intelligence) and [`Data Science`](https://en.wikipedia.org/wiki/Data_science)
 <br>
 
-*   [TensorFlow](#tensorFlow)  
+*   [TensorFlow](#tensorflow)  
 *   [Theano](#theano)    
-*   [PyTorch](#pyTorch)
+*   [PyTorch](#pytorch)
 *   [Keras](#keras)
 *   [Matplotlib](#matplotlib)
 *   [Numpy](#numpy)
@@ -40,7 +40,9 @@ Here is a list of [`Libraries`](https://en.wikipedia.org/wiki/Library_(computing
 
 <br>
 
-## TensorFlow <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />
+
+## TensorFlow
 TensorFlow is one of the best library available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.
 
 Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.
@@ -62,7 +64,9 @@ Built on top of Theano are some of the well known deep learning libraries such a
  
 <br>
 
-## PyTorch <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
+
+## PyTorch
 Developed by Facebook, PyTorch is one of the few machine learning libraries for Python. Apart from Python, PyTorch also has support for C++ with its C++ interface if you’re into that. Considered among the top contenders in the race of being the best Machine Learning and Deep Learning framework, PyTorch faces touch competition from TensorFlow.
 
 [Website](https://pytorch.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
@@ -71,7 +75,9 @@ Developed by Facebook, PyTorch is one of the few machine learning libraries for 
 
 <br>
 
-## Keras <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/keras.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/keras.svg" />
+
+## Keras
 Open-source software library Keras provides an interface for the TensorFlow library and enables fast experimentation with deep neural networks. It was developed by Francois Chollet and was first released in 2015. 
 
 Keras offers utilities for compiling models, graph visualisation and dataset analysis. Further, it offers prelabeled datasets that can be imported and loaded directly. It is user-friendly, versatile and suited for creative research. 
@@ -82,7 +88,9 @@ Keras offers utilities for compiling models, graph visualisation and dataset ana
 
 <br>
 
-## Matplotlib <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
+<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
+
+## Matplotlib
 Developed by John Hunter, Matplotlib is one of the most common libraries in the Python community. It is used for creating static, animated and interactive data visualisations. Matplotlib provides endless customisation and charts. It enables developers to use histograms to scatter, customise and configure plots. The open-source library offers an object-oriented API for integrating plots into applications.
 
 [Website](https://matplotlib.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
@@ -91,7 +99,9 @@ Developed by John Hunter, Matplotlib is one of the most common libraries in the 
 
 <br>
 
-## Numpy <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
+
+## Numpy
 Developed by Travis Oliphant in 2015, NumPy or Numerical Python is a fundamental library for mathematical and scientific computations. The open-source software has functions of linear algebra, Fourier transform, and matrix computations and is mainly used for applications where speed and resources are important. NumPy aims to provide array objects 50x faster than traditional Python lists. 
 
 Data science libraries including SciPy, Matplotlib, Pandas, Scikit-Learn and Statsmodels are built on top of NumPy.
@@ -102,7 +112,9 @@ Data science libraries including SciPy, Matplotlib, Pandas, Scikit-Learn and Sta
 
 <br>
 
-## Pandas <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pandas.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pandas.svg" />
+
+## Pandas
 Pandas is a Python data analysis library and is used primarily for data manipulation and analysis. It comes into play before the dataset is prepared for training. Pandas make working with time series and structured multidimensional data effortless for machine-learning programmers.
 
 [Website](https://pandas.pydata.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
@@ -111,7 +123,9 @@ Pandas is a Python data analysis library and is used primarily for data manipula
 
 <br>
 
-## Scikit-Learn <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/scikitlearn.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/scikitlearn.svg" />
+
+## Scikit-Learn
 Scikit-learn is another actively used machine learning library for Python. SciKit-Learn features classification, regression and clustering algorithms, including DBSCAN, gradient boosting, support vector machines and random forests. David Cournapeau built the library on top of SciPy, NumPy and Matplotlib for handling standard machine learning and data mining applications. 
 [Website](https://scikit-learn.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
 
@@ -119,7 +133,9 @@ Scikit-learn is another actively used machine learning library for Python. SciKi
 
 <br>
 
-## SciPy <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/scipy.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/scipy.svg" />
+
+## SciPy
 SciPy or Scientific Python is used for complex mathematics, science and engineering problems. It is built on the NumPy extension and allows developers to manipulate and visualise data. 
 
 SciPy provides user-friendly and efficient numerical routines for linear algebra, statistics, integration and optimisation. Its applications include multidimensional image processing, solving Fourier transforms and differential equations. 
@@ -130,7 +146,9 @@ SciPy provides user-friendly and efficient numerical routines for linear algebra
 
 <br>
 
-## Shogun <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/showtime.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/showtime.svg" />
+
+## Shogun
 Shogun is a free, open-source machine learning software library written in C++. It offers numerous algorithms and data structures for machine learning problems. It offers interfaces for Octave, Python, R, Java, Lua, Ruby and C# using SWIG. 
 
 [Website](http://www.shogun.ml/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
@@ -150,7 +168,9 @@ Seaborn is used for basic plottings– bar graph, line charts and pie charts.
 
 <br>
 
-## Plotly <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/plotly.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/plotly.svg" />
+
+## Plotly
 Plotly is a collaborative, web-based analytics and graphing platform. It is one of the most powerful libraries for ML, data science and AI-related operations. Plotly is publication-ready and immersive and is used for data visualisation. 
 
 Plotly can easily import data to chart, allowing developers to make slide decks and dashboards with ease. It is used for the development of tools like Dash and Chart Studio. 
@@ -161,20 +181,12 @@ Plotly can easily import data to chart, allowing developers to make slide decks 
 
 <br>
 
-## Statsmodels <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/statamic.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/statamic.svg" />
+
+## Statsmodels
 Statsmodels is part of the Python scientific stack, oriented towards data science, data analysis and statistics. It is built on top of NumPy and SciPy and integrates with Pandas for data handling. Statsmodels allows users to explore data, estimate statistical models and perform statistical tests. 
 
 [Website](https://www.statsmodels.org/stable/index.html)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
 
 [GitHub](https://github.com/statsmodels)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
-
-<br>
-
-
-### Connect with us:
-
-<a href="https://www.instagram.com/ai.bitsdxb/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
