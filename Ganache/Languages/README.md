@@ -191,7 +191,7 @@ SQL (Structured Query Language) is one of the most requested skills in Data Scie
 <br>
 
 
-## Java <img align="left" alt="java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+## Java <img align="left" alt="java" width="26px" src="https://icons-for-free.com/iconfiles/png/512/java-1324440180936946338.png" />
 Java is one of the popular programming languages which has a multitude of open-source libraries. Java is user-friendly and provides an independent platform and hence is considered good for developing AI. This is a standard and flexible programming language that offers easier debugging of codes, scalability, the ability to support large-scale enterprises, and graphical representation of data. Java is easy to learn, versatile, and its Virtual Machine Technology enables the development of AI language on different platforms.
 *   [Java Documentation](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) 📃
 *   [GeeksforGeeks](https://www.geeksforgeeks.org/java/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
