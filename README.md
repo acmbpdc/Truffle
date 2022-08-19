@@ -202,11 +202,11 @@ Therefore, to be an effective and in-demand AI developer, you need a lot of skil
 ## ⚙️ Contribution Guidelines 
 * Contributions are always welcome! 
 * Please read the Contribution guidelines first.
-* You can find our Contributing guidelines [here](https://github.com/acmbpdc/.github/ONTRIBUTING.md).
+* You can find our Contributing guidelines [here](https://github.com/acmbpdc/.github/blob/main/CONTRIBUTING.md).
 
 ## 🔐 Code Of Conduct 
 
-You can find our Code of Conduct [here](https://github.com/acmbpdc/.github/CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](https://github.com/acmbpdc/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🤝 How to Share
 
