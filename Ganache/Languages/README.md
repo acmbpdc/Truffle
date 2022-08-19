@@ -110,8 +110,7 @@ R is an incredible programming language for machine learning written by a statis
 1. [R Programming by John Hopkins University](https://www.coursera.org/learn/r-programming?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-SuLkysTDtQgaGDaN06UZ0A&siteID=jU79Zysihs4-SuLkysTDtQgaGDaN06UZ0A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4)
 2. [Data Science R Basics Certificate by Harvard University](https://www.edx.org/course/data-science-r-basics) 
 3. [R Training Course](https://www.linkedin.com/learning/learning-r-2?replacementOf=learning-r-2013) 
-4. [R Programming A - Z: R for Data Science](https://www.udemy.com/share/101Wsg/) 
-5. [R Programming Course and Tutorial Online](https://www.pluralsight.com/courses/programmin) 
+4. [R Programming A - Z: R for Data Science](https://www.udemy.com/share/101Wsg/)
   
 </details>
 
@@ -157,11 +156,10 @@ SQL (Structured Query Language) is one of the most requested skills in Data Scie
   <summary>Online Courses 💻</summary>
   
 <!--START_SECTION:activity-->  
-1. [Analyzing Big Data with SQL](https://click.linksynergy.com/deeplink?id=Qouy7GhEEFU&mid=40328&murl=https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries\\)
-2. [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/share/101Wiw/) 
-3. [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql?ranMID=40328&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-IMG7g4HdBWea9ikFK1CQ3A&siteID=Qouy7GhEEFU-IMG7g4HdBWea9ikFK1CQ3A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Qouy7GhEEFU) 
-4. [The Complete SQL Bootcamp 2020: Go from Zero to Hero](https://www.udemy.com/share/101Whk/) 
-5. [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?ranMID=40328&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-2wvU4E2p_GGNEHG2tSOh_w&siteID=Qouy7GhEEFU-2wvU4E2p_GGNEHG2tSOh_w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Qouy7GhEEFU) 
+1. [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/share/101Wiw/) 
+2. [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql?ranMID=40328&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-IMG7g4HdBWea9ikFK1CQ3A&siteID=Qouy7GhEEFU-IMG7g4HdBWea9ikFK1CQ3A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Qouy7GhEEFU) 
+3. [The Complete SQL Bootcamp 2020: Go from Zero to Hero](https://www.udemy.com/share/101Whk/) 
+4. [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?ranMID=40328&ranEAID=Qouy7GhEEFU&ranSiteID=Qouy7GhEEFU-2wvU4E2p_GGNEHG2tSOh_w&siteID=Qouy7GhEEFU-2wvU4E2p_GGNEHG2tSOh_w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Qouy7GhEEFU) 
   
 </details>
 
@@ -291,7 +289,6 @@ Julia is a high-performance, general-purpose dynamic programming language emergi
   
 <!--START_SECTION:activity-->  
 1. [r/Julia](https://www.reddit.com/r/Julia/)
-2. [r/julialang](https://www.reddit.com/r/julialang/) 
   
 </details>
 
