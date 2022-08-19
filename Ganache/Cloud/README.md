@@ -2,17 +2,17 @@
 
 There are many cloud computing platforms that provide these web services for machine learning. The most popular of these are [`Amazon Web Services`](https://en.wikipedia.org/wiki/Amazon_Web_Services), [`Microsoft Azure`](https://en.wikipedia.org/wiki/Microsoft_Azure), [`Google Cloud`](https://en.wikipedia.org/wiki/Google_Cloud_Platform), and [`IBM Cloud`](https://en.wikipedia.org/wiki/IBM_Cloud). These are the oldest and most mature platforms that provide various products for Machine Learning ranging from natural language processing, service bots, and even deep learning. 
 
-*   [Amazon Web Services](#aws)  
-*   [Microsoft Azure](#azure)    
-*   [Google Cloud](#google_cloud)
-*   [IBM Watson Cloud](#ibm)
+*   [Amazon Web Services](#amazon-web-services)  
+*   [Microsoft Azure](#microsoft-azure)    
+*   [Google Cloud](#google-cloud)
+*   [IBM Watson Cloud](#ibm-watson-cloud)
 
 <br>
 
 
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 
-
-## Amazon Web Services <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+## Amazon Web Services
 Amazon Web Services is a cloud computing platform that is a subsidiary of Amazon. It was launched in 2006 is currently one of the most popular cloud computing platforms for machine learning.
 
 *   [Website](http://aws.amazon.com/) 🌐
@@ -32,7 +32,9 @@ Amazon Web Services is a cloud computing platform that is a subsidiary of Amazon
 
 <br>
 
-## Microsoft Azure <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />
+
+## Microsoft Azure
 Microsoft Azure is a cloud computing platform created by Microsoft. It was initially released in 2010 and is a popular cloud computing platform for machine learning and data analytics.
 
 *   [Website](https://azure.microsoft.com/) 🌐
@@ -50,7 +52,9 @@ Microsoft Azure is a cloud computing platform created by Microsoft. It was initi
 
 <br>
 
-## Google Cloud <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
+
+## Google Cloud
 The Google Cloud Platform is a cloud computing platform that is provided by Google. It was launched in 2008 and it provides the same infrastructure for companies that Google also uses in its internal products.
 
 *   [Website](https://cloud.google.com/) 🌐
@@ -70,7 +74,9 @@ The Google Cloud Platform is a cloud computing platform that is provided by Goog
 
 <br>
 
-## IBM Watson Cloud <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/ibmwatson.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/ibmwatson.svg" />
+
+## IBM Watson Cloud
 The IBM Cloud Platform is a cloud computing platform offered by IBM. It provides various cloud delivery models that are public, private, and hybrid models.
 
 *   [Website](https://www.ibm.com/cloud) 🌐
@@ -84,20 +90,3 @@ The IBM Cloud Platform is a cloud computing platform offered by IBM. It provides
 | [Watson Natural Language Understanding](https://www.ibm.com/cloud/watson-natural-language-understanding) | Watson Natural Language Understanding is a cloud native product that uses deep learning to extract metadata from text such as entities, keywords, categories, sentiment, emotion, relations, and syntax. |
 | [Watson Visual Recognition](https://www.ibm.com/dk-en/cloud/watson-visual-recognition) | Visual Recognition service uses deep learning algorithms to analyze images for scenes, objects, faces, and other content. |
 | [Watson Assistant](https://www.ibm.com/ae-en/cloud/watson-assistant) | Watson Assistant provides customers with fast, consistent and accurate answers across any application, device or channel. |
-
-
-<br>
-
-
-### Connect with us:
-
-<a href="https://www.instagram.com/ai.bitsdxb/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
-
-
-
-
-
