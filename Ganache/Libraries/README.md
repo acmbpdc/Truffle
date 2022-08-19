@@ -58,7 +58,7 @@ Theano is a powerful Python library enabling easy defining, optimizing and evalu
 
 Built on top of Theano are some of the well known deep learning libraries such as Keras, Blocks and Lasagne. Theano is a Python library and optimizing compiler for manipulating and evaluating mathematical expressions, especially matrix-valued ones. In Theano, computations are expressed using a NumPy-esque syntax and compiled to run efficiently on either CPU or GPU architectures.
 
-[Website](http://www.deeplearning.net/software/theano/) <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
+Theano Is no longer under development see GitHub page for more.
 
 [GitHub](https://github.com/Theano)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
  
@@ -127,6 +127,7 @@ Pandas is a Python data analysis library and is used primarily for data manipula
 
 ## Scikit-Learn
 Scikit-learn is another actively used machine learning library for Python. SciKit-Learn features classification, regression and clustering algorithms, including DBSCAN, gradient boosting, support vector machines and random forests. David Cournapeau built the library on top of SciPy, NumPy and Matplotlib for handling standard machine learning and data mining applications. 
+
 [Website](https://scikit-learn.org/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
 
 [GitHub](https://github.com/scikit-learn)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
@@ -140,7 +141,7 @@ SciPy or Scientific Python is used for complex mathematics, science and engineer
 
 SciPy provides user-friendly and efficient numerical routines for linear algebra, statistics, integration and optimisation. Its applications include multidimensional image processing, solving Fourier transforms and differential equations. 
 
-[Website](https://scipy.org/scipylib/)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
+[Website](https://scipy.org)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" /> 
 
 [GitHub](https://github.com/scipy)  <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
 
