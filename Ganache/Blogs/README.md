@@ -5,20 +5,20 @@ Towards AI is a data-driven community that discusses artificial intelligence, da
 
 Please know that the blogs listed below are by no means ranked or in a particular order. They are all incredible sources of machine learning research.
 
-*   [ML@CMU](#ML@CMU)
-*   [Amazon Science Blog](#Amazon_ScienceBlog)
-*   [Distill](#Distill)
-*   [Google AI Blog](#GoogleAIBlog)
-*   [Data Science Dojo](#DataScienceDojo)
-*   [Neptune.AI](#Neptune.AI)
-*   [BAIR Berkeley](#BAIRBerkeley)
-*   [Open AI](#OpenAI)
-*   [Machine Learning (Theory)](#MachineLearning(Theory))
-*   [DeepMind Blog](#DeepMindBlog)
-*   [Machine Learning at MIT](#MachineLearningatMIT)
-*   [Colah’s Blog](#Colah’sBlog)
-*   [Facebook AI’s Blog](#FacebookAI’sBlog)
-*   [Amazon AWS Machine Learning Blog](#AmazonAWSMachineLearningBlog)
+*   [ML@CMU](#machine-learning-blog-mlcmu-carnegie-mellon-university)
+*   [Amazon Science Blog](#amazon-science-blog)
+*   [Distill](#distill)
+*   [Google AI Blog](#google-ai-blog)
+*   [Data Science Dojo](#data-science-dojo)
+*   [Neptune.AI](#neptuneai)
+*   [BAIR Berkeley](#bair-berkeley)
+*   [Open AI](#open-ai)
+*   [Machine Learning (Theory)](#machine-learning-theory-by-john-langford)
+*   [DeepMind Blog](#deepmind-blog)
+*   [Machine Learning at MIT](#machine-learning-at-mit)
+*   [Colah’s Blog](#colahs-blog)
+*   [Facebook AI’s Blog](#facebook-ais-blog)
+*   [Amazon AWS Machine Learning Blog](#amazon-aws-machine-learning-blog)
 
 <br>
 
@@ -76,16 +76,3 @@ Facebook AI is known for working on state-of-the-art research in the field. Thei
 
 ## [Amazon AWS Machine Learning Blog](https://mktg.best/z405-)
 Amazon web services (AWS) is one of the most used cloud services around the world. They offer reliable, scalable, and accessible cloud computing services. Their research team publishes blog posts on machine learning state-of-the-art research and ML applications on the AWS blog
-<br>
-
-### Connect with us:
-
-<a href="https://www.instagram.com/ai.bitsdxb/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
-
-
-
-
