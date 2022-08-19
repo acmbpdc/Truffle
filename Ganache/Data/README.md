@@ -1,13 +1,13 @@
 # Data Sources
 
-*   [Dataset Finders](#datasetfinders)   
-*   [Machine Learning Datasets](#google_colaboratory)
-*   [Computer Vision Datasets](#computer_vision)
-*   [Sentiment Analysis Datasets](#thonny)
-*   [Natural Language Processing Datasets](#jupyternotebook)
-*   [Self-driving (Autonomous Vehicles) Datasets](#pycharm)
-*   [Clinical Datasets](#visualstudiocode)
-*   [Recommendation System Datasets](#atom)
+*   [Dataset Finders](#dataset-finders)   
+*   [Machine Learning Datasets](#machine-learning-datasets)
+*   [Computer Vision Datasets](#computer-vision-datasets)
+*   [Sentiment Analysis Datasets](#sentiment-analysis-datasets)
+*   [Natural Language Processing Datasets](#natural-language-processing-datasets)
+*   [Self-driving (Autonomous Vehicles) Datasets](#self-driving-autonomous-vehicles-datasets)
+*   [Clinical Datasets](#clinical-datasets)
+*   [Recommendation System Datasets](#recommendation-systems-datasets)
 
 <br>
 
