@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img width="30" src=""><a href="http://acmbpdc.org/">ACM BPDC</a></h1>
+<h1><img width="25" src="https://github.com/acmbpdc/.github/raw/main/assets/logo.png"><a href="http://acmbpdc.org/">  ACM BPDC</a></h1>
 🧠 Imagine | 👨🏻‍💻 Implement | 🚀 Innovate
 <br>
 </div>
