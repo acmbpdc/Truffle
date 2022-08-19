@@ -5,13 +5,13 @@ List of [`Integrated Development Environments`](https://en.wikipedia.org/wiki/In
 </br>
  <img align="right" alt="GIF" src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif" width="500" height="320" />
 
-*   [Spyder](#Spyder)  
-*   [R Studio](#rstudio)    
-*   [Google Colaboratory](#google_colaboratory)
+*   [Spyder](#spyder)  
+*   [R Studio](#r-studio)    
+*   [Google Colaboratory](#google-colaboratory)
 *   [Thonny](#thonny)
-*   [Juypter Notebook](#jupyternotebook)
+*   [Juypter Notebook](#jupyter-notebook)
 *   [PyCharm](#pycharm)
-*   [Visual Studio Code](#visualstudiocode)
+*   [Visual Studio Code](#visual-studio-code)
 *   [Atom](#atom)
 *   [Rodeo](#rodeo)
 *   [PyDev](#pydev)
@@ -38,7 +38,9 @@ List of [`Integrated Development Environments`](https://en.wikipedia.org/wiki/In
 
 <br>
 
-## Spyder <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/spyderide.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/spyderide.svg" />
+
+## Spyder
 Scientific Python Development Environment (Spyder) is a free & open-source python IDE. It is lightweight and is an excellent python ide for data science & ML. It is used by a lot of data analysts for real-time code analysis. Spyder has an interactive code execution pattern which gives you the option to compile any single line, a section of the code, or the whole code in one go.
 * [Documentation](https://docs.spyder-ide.org/current/index.html) 📃
 * [Installation](https://docs.spyder-ide.org/3/installation.html) 📌
@@ -54,7 +56,9 @@ Scientific Python Development Environment (Spyder) is a free & open-source pytho
 
 <br>
 
-## R Studio <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/r.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/r.svg" />
+
+## R Studio
 RStudio is the most feature-rich IDE for the R platform. It is open-source, but there’s also a commercial edition for desktops, including Windows, Mac, and Linux. You can also use it in a Linux server running RStudio Server or RStudio Server Pro. It features syntax highlighting, smart indentation, and code completion. R code can be executed directly through the source editor.
 * [Documentation](https://docs.rstudio.com/) 📃
 * [Installation](https://www.rstudio.com/products/rstudio/download/) 📌
@@ -70,7 +74,9 @@ RStudio is the most feature-rich IDE for the R platform. It is open-source, but 
 
 <br>
 
-## Google Colaboratory <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlecolab.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlecolab.svg" />
+
+## Google Colaboratory
 Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs.
 
 * [Documentation](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb) 📃
@@ -104,7 +110,9 @@ Thonny is an excellent Python IDE that will run on Windows, Linux, and Mac. The 
 
 <br>
 
-## Jupyter Notebook <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />
+
+## Jupyter Notebook
 Jupyter Notebook was born out of IPython in 2014. It is a web application based on the server-client structure, and it allows you to create and manipulate notebook documents - or just “notebooks”. upyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn’t only work as an IDE, but also as a presentation or education tool. It’s perfect for those who are just starting out with data science.
 
 * [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) 📃
@@ -121,7 +129,9 @@ Jupyter Notebook was born out of IPython in 2014. It is a web application based 
 
 <br>
 
-## PyCharm <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+
+## PyCharm
 It is an excellent python IDE which has features like auto code completion, auto code indentation, etc. It has a smart debugger that analyses the code and highlights errors. DS & ML professionals who are into web development prefer PyCharm also because of its easy navigation facility. You can search for any particular symbol used in long codes via the navigation feature in PyCharm. Interlinking multiple scripts is also easier in PyCharm.
 
 * [Documentation](https://www.jetbrains.com/pycharm/learn/) 📃
@@ -139,8 +149,9 @@ It is an excellent python IDE which has features like auto code completion, auto
 
 <br>
 
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 
-## Visual Studio Code <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+## Visual Studio Code
 Visual Code is one of the most used Python IDE by ML & DS professionals. It works on Windows, Mac, and Linux operating systems. VS Code supports many languages besides Python like C, C#, JavaScript, HTML, CSS, etc. Visual Code is a lightweight, open-source Python IDE that has a free version as well as a paid version for businesses/enterprises. VS Code makes working with SQL, Unity, .NET, Node.js, and many other tools easier.
 * [Documentation](https://code.visualstudio.com/docs) 📃
 * [Installation](https://code.visualstudio.com/download) 📌
@@ -158,7 +169,9 @@ Visual Code is one of the most used Python IDE by ML & DS professionals. It work
 
 <br>
 
-## Atom <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/atom.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/atom.svg" />
+
+## Atom
 Atom is an excellent IDE for ML & DS professionals which supports many other languages besides python like C, C++, HTML, JavaScript, etc. You can use it on Windows, Linux, and Mac. Atom supports MySQL, PostgreSQL, Microsoft SQL Server which helps you in writing and executing SQL queries/commands. ML & DS professionals also prefer Atom because of its ability for cross-platform editing. It is one of the best open-source free IDEs to use currently.
 * [Documentation](https://atom.io/docs) 📃
 * [Installation](https://www.accesstomemory.org/en/docs/2.6/admin-manual/installation/) 📌
@@ -176,7 +189,9 @@ Atom is an excellent IDE for ML & DS professionals which supports many other lan
 
 <br>
 
-## Rodeo <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+
+## Rodeo
 Of all the IDEs for data science and machine learning, Rodeo is one of those that is the most versatile. This particular IDE uses IPython kernel and was authored by Yhat. It is famous for its ability to let users explore, compare, and interact with data frames and plots. Thought, Rodeo has not been updated for the last time.
 * [Documentation](https://github.com/yhat/rodeo) 📃
 * [Installation](https://fileproto.com/download-rodeo-on-pc/) 📌
@@ -194,7 +209,9 @@ Of all the IDEs for data science and machine learning, Rodeo is one of those tha
 
 <br>
 
-## PyDev <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pyup.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/pyup.svg" />
+
+## PyDev
 PyDev is a third-party plug-in for Eclipse. It is an Integrated Development Environment (IDE) used for programming in Python supporting code refactoring, graphical debugging, code analysis among other features.It is used in Python, Jython and IronPython development.
 * [Documentation](https://www.pydev.org/manual.html) 📃
 * [Installation](https://www.pydev.org/download.html) 📌
@@ -210,17 +227,6 @@ PyDev is a third-party plug-in for Eclipse. It is an Integrated Development Envi
 5. [The Ultimate Eclipse Python PyDev Tutorial](https://www.youtube.com/watch?v=pOHk6dsIg-I)
 
 </details>
-
-<br>
-
-
-### Connect with us:
-
-<a href="https://www.instagram.com/ai.bitsdxb/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
 
 
 
