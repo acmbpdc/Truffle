@@ -17,7 +17,7 @@
 |:-------------:|:-------------:|
 | [Kaggle](https://www.kaggle.com/) | Kaggle provides a vast container of datasets, sufficient for the enthusiast to the expert. |
 | [Google’s Dataset Search Engine](https://toolbox.google.com/datasetsearch) | Similar to how Google Scholar works, Dataset Search lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets. |
-| [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/) | The Machine Learning Repository at UCI provides an up to date resource for open-source datasets. |
+| [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) | The Machine Learning Repository at UCI provides an up to date resource for open-source datasets. |
 | [VisualData](https://www.visualdata.io/) | Discover computer vision datasets by category; it allows searchable queries. |
 | [The Big Bad NLP Database](https://datasets.quantumstat.com/) | datasets for various natural language processing tasks, created and curated by [Quantum Stat](https://quantumstat.com/) |
 | [Awesome Public Datasets Collection](https://github.com/awesomedata/awesome-public-datasets#datachallenges) | This collection is a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses. Contains tons of data sources and categories |
@@ -55,7 +55,7 @@
 | [Google’s Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html) | A vast dataset from Google AI containing over 10 million images. |
 | [xView](http://xviewdataset.org/#dataset) | xView is one of the most massive publicly available datasets of overhead imagery. It contains images from complex scenes around the world, annotated using bounding boxes. |
 | [ImageNet](http://image-net.org/) | The largest image dataset for computer vision. It provides an accessible image database that is organized hierarchically, according to WordNet. |
-| [Kinetics-700](https://deepmind.com/research/open-source/open-source-datasets/kinetics/) | A large-scale dataset of video URLs from Youtube. Including human-centered actions. It contains over 700,000 videos. |
+| [Kinetics-700](https://www.deepmind.com/open-source/kinetics) | A large-scale dataset of video URLs from Youtube. Including human-centered actions. It contains over 700,000 videos. |
 | [Cityscapes Dataset](https://www.cityscapes-dataset.com/) | This is an open-source dataset for Computer Vision projects. It contains high-quality pixel-level annotations of video sequences taken in 50 different city streets. The dataset is useful in semantic segmentation and training deep neural networks to understand the urban scene. |
 | [IMDB-Wiki dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) | The IMDB-Wiki dataset is one of the most extensive open-source datasets for face images with labeled gender and age. The images are collected from IMDB and Wikipedia. It has five million-plus labeled images. |
 | [Color Detection Dataset](https://github.com/codebrainz/color-names/blob/master/output/colors.csv) | The dataset contains a CSV file that has 865 color names with their corresponding RGB(red, green, and blue) values of the color. It also has the hexadecimal value of the color. |
@@ -69,7 +69,7 @@
 
 | Dataset | Description |
 |:-------------:|:-------------|
-| [Lexicoder Sentiment Dictionary](http://www.lexicoder.com/) | This dataset is specific for sentiment analysis. The dataset contains over 3000 negative words and over 2000 positive sentiment words. |
+| [Lexicoder Sentiment Dictionary](https://quanteda.io/reference/data_dictionary_LSD2015.html) | This dataset is specific for sentiment analysis. The dataset contains over 3000 negative words and over 2000 positive sentiment words. |
 | [IMDB reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | An interesting dataset with over 50,000 movie reviews from Kaggle. |
 | [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html) | Standard sentiment dataset with sentiment annotations. |
 | [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) | Twitter data on US airlines from February 2015, classified as positive, negative, and neutral tweets |
@@ -107,11 +107,9 @@
 | [Waymo Open Dataset](https://waymo.com/open/) | This is a fantastic dataset resource from the folks at Waymo. Includes a vast dataset of autonomous driving, enough to train deep nets from zero. |
 | [Berkeley DeepDrive BDD100k](http://bdd-data.berkeley.edu/) | One of the largest datasets for self-driving cars, containing over 2000 hours of driving experiences across New York and California. |
 | [Bosch Small Traffic Light Dataset](https://hci.iwr.uni-heidelberg.de/node/6132) | Dataset for small traffic lights for deep learning. |
-| [LaRa Traffic Light Recognition](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition) | Another dataset for traffic lights. This dataset is gathered from Paris. |
 | [WPI datasets](http://computing.wpi.edu/dataset.html) | Datasets for traffic lights, pedestrian, and lane detection. |
 | [Comma.ai](https://archive.org/details/comma-dataset) | It contains details such as a car’s speed, acceleration, steering angle, and GPS coordinates. |
-| [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/) | A sample of the 1,000+ hours of multi-sensor driving datasets collected at AgeLab. |
-| [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) | This dataset includes traffic signs, vehicle detection, traffic lights, and trajectory patterns. |
+| [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](https://avindata.ca/dataset/lisa-laboratory-for-intelligent-safe-automobiles-datasets) | This dataset includes traffic signs, vehicle detection, traffic lights, and trajectory patterns. |
 | [Cityscape Dataset](https://www.cityscapes-dataset.com/) | This is an extensive dataset that has street scenes in 50 different cities. |
 
 <br>
@@ -136,38 +134,3 @@
 | [ Jester](http://www.ieor.berkeley.edu/~goldberg/jester-data/) | It contains 4.1 Million continuous ratings (-10.00 to +10.00) of 100 jokes from 73,421 users. It’s mostly used for the collaborative filter. |
 | [Million Song Dataset](https://www.kaggle.com/c/msdchallenge#description) | It can be used for both collaborative and content-based filtering. |
 | [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/links.html) | Amazon Product Data contains metadata and reviews on millions of items sold on Amazon. This is an incredible resource for anyone interested in recommender systems.|
-
-<br>
-
-
-### Connect with us:
-
-<a href="https://www.instagram.com/ai.bitsdxb/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/company/ai-bits/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/aibits-dxb" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://ai-bits.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
