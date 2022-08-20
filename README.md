@@ -51,100 +51,91 @@ This is **project Truffle**. Here's how to eat it:
  <img align="center" alt="AI" src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png" width="900" height="600" />
 
 
-<details>
+<details markdown="1">
   <summary>Data Preprocessing</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Importing the dataset](https://towardsdatascience.com/data-handling-using-pandas-machine-learning-in-real-life-be76a697418c)
-2. [Missing Data](http://scikit-learn.org/stable/modules/impute.html) 
-3. [Categorical Data](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) 
-4. [Splitting the dataset into Training and Test Set](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) 
-5. [Feature Scaling](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) 
-  
+
+  1. [Importing the dataset](https://towardsdatascience.com/data-handling-using-pandas-machine-learning-in-real-life-be76a697418c)
+  2. [Missing Data](http://scikit-learn.org/stable/modules/impute.html) 
+  3. [Categorical Data](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) 
+  4. [Splitting the dataset into Training and Test Set](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) 
+  5. [Feature Scaling](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) 
+    
 </details>
 
-<details>
+<details markdown="1">
   <summary>Regression</summary>
   
-<!--START_SECTION:activity-->  
-1. [Simple Linear Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-2. [Multi-Linear Regression](http://scikit-learn.org/stable/modules/linear_model.html) 
-3. [Polynomial Regression](https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d3296f2) 
-4. [SVR](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html) 
-5. [Desicion Tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) 
-6. [Random Forest](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) 
+  1. [Simple Linear Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+  2. [Multi-Linear Regression](http://scikit-learn.org/stable/modules/linear_model.html) 
+  3. [Polynomial Regression](https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d3296f2) 
+  4. [SVR](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html) 
+  5. [Desicion Tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) 
+  6. [Random Forest](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) 
 
   
 </details>
 
-<details>
+<details markdown="1">
   <summary>Classification</summary>
   
-<!--START_SECTION:activity-->  
-1. [Logistic Classification](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-2. [K-Nearest Neigbors](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) 
-3. [Support Vector Machine](http://scikit-learn.org/stable/modules/svm.html) 
-4. [Kernel SVM](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html) 
-5. [Naive Bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) 
-6. [Desicion Tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
-7. [Random Forest](https://scikit-learn.org/0.15/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+  1. [Logistic Classification](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  2. [K-Nearest Neigbors](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) 
+  3. [Support Vector Machine](http://scikit-learn.org/stable/modules/svm.html) 
+  4. [Kernel SVM](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html) 
+  5. [Naive Bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) 
+  6. [Desicion Tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
+  7. [Random Forest](https://scikit-learn.org/0.15/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
   
 </details>
 
-<details>
+<details markdown="1">
   <summary>Clustering</summary>
-  
-<!--START_SECTION:activity-->  
-1. [K-Means Clustering](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-2. [Hierarchical Clustering](http://scikit-learn.org/stable/modules/clustering.html) 
+
+  1. [K-Means Clustering](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+  2. [Hierarchical Clustering](http://scikit-learn.org/stable/modules/clustering.html) 
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>Association Rule Learning</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Apriori](https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/)
-2. [Eclat](https://www.geeksforgeeks.org/ml-eclat-algorithm/) 
+
+  1. [Apriori](https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/)
+  2. [Eclat](https://www.geeksforgeeks.org/ml-eclat-algorithm/) 
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>Reinforcement Learning</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Upper Confidence Bound (UCB)](https://towardsdatascience.com/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d)
-2. [Thompson Sampling](https://visualstudiomagazine.com/articles/2019/06/01/thompson-sampling.aspx) 
+
+  1. [Upper Confidence Bound (UCB)](https://towardsdatascience.com/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d)
+  2. [Thompson Sampling](https://visualstudiomagazine.com/articles/2019/06/01/thompson-sampling.aspx) 
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>Deep Learning</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Artificial Neural Networks](http://scikit-learn.org/stable/modules/neural_networks_supervised.html)
-2. [Convolutional Neural Network](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python) 
+
+  1. [Artificial Neural Networks](http://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+  2. [Convolutional Neural Network](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python) 
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>Dimensionality Reduction</summary>
-  
-<!--START_SECTION:activity-->  
-1. [Principal Component Analysis (PCA)](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
-2. [Linear Discriminant Analysis (LDA)](http://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html) 
-3. [Kernal PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html) 
+
+  1. [Principal Component Analysis (PCA)](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+  2. [Linear Discriminant Analysis (LDA)](http://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html) 
+  3. [Kernal PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html) 
     
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>Model Selection & Boosting</summary>
-  
-<!--START_SECTION:activity-->  
-1. [K-Fold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
-2. [Grid Search](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) 
-3. [XG-Boost](https://www.kaggle.com/stuarthallows/using-xgboost-with-scikit-learn) 
+
+  1. [K-Fold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
+  2. [Grid Search](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) 
+  3. [XG-Boost](https://www.kaggle.com/stuarthallows/using-xgboost-with-scikit-learn) 
     
 
 </details>

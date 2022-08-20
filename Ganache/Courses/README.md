@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
 
 ## Coursera
 Coursera Inc. is an American massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
@@ -27,7 +27,7 @@ Coursera Inc. is an American massive open online course provider founded in 2012
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/udemy.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/udemy.svg" />
 
 ## Udemy
 Udemy, Inc. is an American massive open online course provider aimed at professional adults and students. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.
@@ -42,7 +42,7 @@ Udemy, Inc. is an American massive open online course provider aimed at professi
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/udacity.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/udacity.svg" />
 
 ## Udacity
 Udacity, Inc. is an American for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses. According to Thrun, the origin of the name Udacity comes from the company's desire to be "audacious for you, the student".
@@ -55,7 +55,7 @@ Udacity, Inc. is an American for-profit educational organization founded by Seba
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/edx.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/edx.svg" />
 
 ## edX
 edX is an American massive open online course provider created by Harvard and MIT. It hosts online university-level courses in a wide range of disciplines to a worldwide student body, including some courses at no charge. It also conducts research into learning based on how people use its platform.
@@ -68,7 +68,7 @@ edX is an American massive open online course provider created by Harvard and MI
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/opensourceinitiative.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/opensourceinitiative.svg" />
 
 ## MOOCs
 Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
@@ -86,10 +86,11 @@ Massive Open Online Courses (MOOCs) are free online courses available for anyone
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/youtube.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/youtube.svg" />
 
 ## Youtube
 List of Youtube Channels of leading and most reputed personalities/ authors/ professors:
+
 *  [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) 
 *  [Socratica](https://www.youtube.com/user/SocraticaStudios) 
 *  [Data School](https://www.youtube.com/user/dataschool) 
@@ -109,7 +110,7 @@ List of Youtube Channels of leading and most reputed personalities/ authors/ pro
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/okta.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/okta.svg" />
 
 ## Others
 

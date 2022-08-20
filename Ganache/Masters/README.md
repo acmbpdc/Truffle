@@ -18,7 +18,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" />
 
 ## [Carnegie Mellon University](https://mktg.best/9d0bf)
 **Program Name**: Master of Science in Machine Learning
@@ -35,7 +35,7 @@ These are the best universities to pursue a master’s degree in machine learnin
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104757/University-of-California-Berkeley.jpg" />
 
 ## [University of California - Berkeley](https://mktg.best/-17zl)
 **Program Name**: Masters in Data Science, Masters in EECS
@@ -52,7 +52,7 @@ Tracks available: Masters in Data Science, Masters in EECS with a focus on machi
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFVZxF7TIA0Ug/company-logo_200_200/0/1519856118327?e=2159024400&v=beta&t=_OYUqcKlDL9BLV2jlNkylfOiZD6REodL3NbuOG-ZpbY" />
 
 ## [Stanford University](https://mktg.best/mejob)
 **Program Name**: Masters of Science in Computer Science
@@ -70,7 +70,7 @@ Tracks available: Masters in Data Science, Masters in EECS with a focus on machi
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://download.logo.wine/logo/Massachusetts_Institute_of_Technology/Massachusetts_Institute_of_Technology-Logo.wine.png" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://download.logo.wine/logo/Massachusetts_Institute_of_Technology/Massachusetts_Institute_of_Technology-Logo.wine.png" />
 
 ## [Massachusetts Institute of Technology](https://mktg.best/5sit7)
 **Program Name**: Master of Science in EECS
@@ -87,7 +87,7 @@ Tracks available: Masters in EECS with a focus on machine learning.
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png" />
 
 ## [Cornell University](https://mktg.best/ap3bg)
 
@@ -104,7 +104,7 @@ Tracks available: Masters in Computer Science.
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" />
 
 ## [University of California - San Diego (UCSD)](https://mktg.best/nlnip)
 
@@ -121,7 +121,7 @@ Track available: Masters in Computer Science.
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/1200px-Georgia_Tech_seal.svg.png" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/1200px-Georgia_Tech_seal.svg.png" />
 
 ## [Georgia Institute of Technology](https://mktg.best/33gws)
 
@@ -138,7 +138,7 @@ Tracks available: Masters in Computer Science with a specialization in Machine L
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1200px-University_of_Washington_seal.svg.png" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1200px-University_of_Washington_seal.svg.png" />
 
 ## [University of Washington](https://mktg.best/mfw2y)
 
@@ -155,7 +155,7 @@ Focus areas: Machine learning, artificial intelligence, NLP, computer vision, de
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://deadline.com/wp-content/uploads/2020/02/ucla.jpg?w=681&h=383&crop=1" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://deadline.com/wp-content/uploads/2020/02/ucla.jpg?w=681&h=383&crop=1" />
 
 ## [University of California - Los Angeles (UCLA)](https://mktg.best/vu9av)
 
@@ -172,7 +172,7 @@ Tracks available: Master of Science in Computer Science.
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://news.illinois.edu/files/6367/543635/116641.jpg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://news.illinois.edu/files/6367/543635/116641.jpg" />
 
 ## [University of Illinois at Urbana-Champaign (UIUC)](https://mktg.best/2hmvo)
 

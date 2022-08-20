@@ -10,7 +10,7 @@ There are many cloud computing platforms that provide these web services for mac
 <br>
 
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 
 ## Amazon Web Services
 Amazon Web Services is a cloud computing platform that is a subsidiary of Amazon. It was launched in 2006 is currently one of the most popular cloud computing platforms for machine learning.
@@ -32,7 +32,7 @@ Amazon Web Services is a cloud computing platform that is a subsidiary of Amazon
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />
 
 ## Microsoft Azure
 Microsoft Azure is a cloud computing platform created by Microsoft. It was initially released in 2010 and is a popular cloud computing platform for machine learning and data analytics.
@@ -52,7 +52,7 @@ Microsoft Azure is a cloud computing platform created by Microsoft. It was initi
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
 
 ## Google Cloud
 The Google Cloud Platform is a cloud computing platform that is provided by Google. It was launched in 2008 and it provides the same infrastructure for companies that Google also uses in its internal products.
@@ -74,7 +74,7 @@ The Google Cloud Platform is a cloud computing platform that is provided by Goog
 
 <br>
 
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/ibmwatson.svg" />
+<img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/ibmwatson.svg" />
 
 ## IBM Watson Cloud
 The IBM Cloud Platform is a cloud computing platform offered by IBM. It provides various cloud delivery models that are public, private, and hybrid models.
