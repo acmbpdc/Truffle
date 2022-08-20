@@ -6,13 +6,13 @@ These are the best universities to pursue a Ph.D. in machine learning, with rese
 | Research Ranking in Machine Learning | University | Research Ranking in AI | Program Name |
 |:-------------:|:-------------:|:-----:|:------------:|
 | 1 | [Carnegie Mellon University](#carnegie-mellon-university) | 1 | Ph.D. in Machine Learning |
-| 2 | [University of California — Berkeley](#university-of-california---berkeley) | 12 | 	Ph.D. in EECS |
+| 2 | [University of California — Berkeley](#university-of-california-berkeley) | 12 | 	Ph.D. in EECS |
 | 3 | [Stanford University](#stanford-university) | 3 | Ph.D. in Computer Science |
 | 4 | [Massachusetts Institute of Technology](#massachusetts-institute-of-technology) | 5 | Ph.D. in EECS |
 | 5 | [Cornell University](#cornell-university) | 2 | Ph.D. in Computer Science |
-| 6 | [University of California — San Diego (UCSD)](#university-of-california---san-diego-ucsd) | 12 | Ph.D. in Computer Science |
+| 6 | [University of California — San Diego (UCSD)](#university-of-california-san-diego-ucsd) | 12 | Ph.D. in Computer Science |
 | 7 | [University of Illinois at Urbana-Champaign (UIUC)](#university-of-illinois-at-urbana-champaign-uiuc) | 4 | Ph.D. in Computer Science |
-| 8 | [University of California — Los Angeles (UCLA)](#university-of-california---los-angeles-ucla) | 8 | Ph.D. in Computer Science |
+| 8 | [University of California — Los Angeles (UCLA)](#university-of-california-los-angeles-ucla) | 8 | Ph.D. in Computer Science |
 | 9 | [Georgia Institute of Technology](#georgia-institute-of-technology) | 9 | Ph.D. in Machine Learning |
 | 10 | [University of Washington](#university-of-washington) | 6 | Ph.D. in Computer Science |
 

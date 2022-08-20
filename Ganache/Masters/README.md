@@ -6,14 +6,14 @@ These are the best universities to pursue a master’s degree in machine learnin
 | Research Ranking in Machine Learning | University | Research Ranking in AI | Program Name |
 |:-------------:|:-------------:|:-----:|:------------:|
 | 1 | [Carnegie Mellon University](#carnegie-mellon-university) | 1 | Master of Science in Machine Learning |
-| 2 | [University of California — Berkeley](#university-of-california---berkeley) | 15 | 	Masters in Data Science, Masters in EECS |
+| 2 | [University of California — Berkeley](#university-of-california-berkeley) | 15 | 	Masters in Data Science, Masters in EECS |
 | 3 | [Stanford University](#stanford-university) | 3 | Masters of Science in Computer Science |
 | 4 | [Massachusetts Institute of Technology](#massachusetts-institute-of-technology) | 5 | Master of Science in EECS |
 | 5 | [Cornell University](#cornell-university) | 2 | Masters in Computer Science |
-| 6 | [University of California — San Diego (UCSD)](#university-of-california---san-diego-ucsd) | 12 | Masters in Computer Science |
+| 6 | [University of California — San Diego (UCSD)](#university-of-california-san-diego-ucsd) | 12 | Masters in Computer Science |
 | 7 | [Georgia Institute of Technology](#georgia-institute-of-technology) | 13 | Masters in Computer Science |
 | 8 | [University of Washington](#university-of-washington) | 6 | Masters in Computer Science, Master of Science in Data Science |
-| 9 | [University of California — Los Angeles (UCLA)](#university-of-california---los-angeles-ucla) | 7 | Masters of Science in Computer Science |
+| 9 | [University of California — Los Angeles (UCLA)](#university-of-california-los-angeles-ucla) | 7 | Masters of Science in Computer Science |
 | 10 | [University of Illinois at Urbana-Champaign (UIUC)](#university-of-illinois-at-urbana-champaign-uiuc) | 4 |Master of Science in Computer Science |
 
 <br>

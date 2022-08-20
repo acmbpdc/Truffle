@@ -41,7 +41,7 @@ Python is the ideal coding language used for machine learning, NLP, and neural n
 
 *   [Python Documentation](https://www.python.org/doc/) 📃
 
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 <details markdown="1">
   <summary>Online Courses 💻</summary>
@@ -103,7 +103,7 @@ Python is the ideal coding language used for machine learning, NLP, and neural n
 R is an incredible programming language for machine learning written by a statistician for statisticians. R language can also be used by non-programmer including data miners, data analysts, and statisticians. R programming language is a fantastic choice when it comes to crunching large numbers and is the preferred choice for machine learning applications that use a lot of statistical data. With user-friendly IDE’s like RStudio and various tools to draw graphs and manage libraries – R is a must-have programming language in a machine learning engineer’s toolkit. 
 
 *   [R Documentation](https://www.r-project.org/other-docs.html) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/r-programming-language-introduction/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/r-programming-language-introduction/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <details markdown="1">
@@ -154,7 +154,7 @@ R is an incredible programming language for machine learning written by a statis
 SQL (Structured Query Language) is one of the most requested skills in Data Science. SQL is a programming language used for querying and managing data in relational databases. Relational Databases are formed by collections of two-dimensional tables (eg. Datasets, Excel Spreadsheets). Together with Python and R, SQL is now considered to be one of the most requested skills in Data Science
 
 *   [SQL Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/21/index.html) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 <details markdown="1">
   <summary>Online Courses 💻</summary>
@@ -204,7 +204,7 @@ SQL (Structured Query Language) is one of the most requested skills in Data Scie
 Java is one of the popular programming languages which has a multitude of open-source libraries. Java is user-friendly and provides an independent platform and hence is considered good for developing AI. This is a standard and flexible programming language that offers easier debugging of codes, scalability, the ability to support large-scale enterprises, and graphical representation of data. Java is easy to learn, versatile, and its Virtual Machine Technology enables the development of AI language on different platforms.
 
 *   [Java Documentation](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/java/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/java/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <details markdown="1">
@@ -257,7 +257,7 @@ Java is one of the popular programming languages which has a multitude of open-s
 Julia is a high-performance, general-purpose dynamic programming language emerging as a potential competitor for Python and R with many predominant features exclusively for machine learning. Having said that it is a general-purpose programming language and can be used for the development of all kinds of applications, it works best for high-performance numerical analysis and computational science. With support for all types of hardware including TPU’s and GPU’s on every cloud, Julia is powering machine learning applications at big corporations like Apple, Disney, Oracle, and NASA.
 
 *   [Julia Documentation](https://docs.julialang.org/en/v1/) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/julia-language-introduction/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/julia-language-introduction/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <details markdown="1">
@@ -307,7 +307,7 @@ Julia is a high-performance, general-purpose dynamic programming language emergi
 One of the oldest programming languages, Prolog or logical programming is a powerful framework that works with three elements- facts, rules, and goals. A developer should define all three elements and then Prolog establishes relations between them to reach a certain conclusion by analyzing facts and rules. Here, the implementation of algorithms happens through logical inferences and searches and this language is great for developing AI systems since the solutions are logical and not just based on pre-existing statements. Prolog is best for creating chatbots, voice assistants, and graphical user interfaces (GUI).
 
 *   [Prolong Documentation](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/prolog-an-introduction/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/prolog-an-introduction/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <br>
@@ -318,7 +318,7 @@ One of the oldest programming languages, Prolog or logical programming is a powe
 C++ is an extension of the C programming language and can be used to build neural networks. The speed of C++ is the greatest benefit since AI development has complex computations and this language can make the calculations faster. It has a low-level memory control feature and carries asset-compelled applications, performance-critical applications, etc. C++ has a complex syntax but is cost-efficient compared to other languages like Java. C++ can be used in AI programming for search engine optimization and ranking.
 
 *   [C++ Documentation](https://devdocs.io/cpp/) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <details markdown="1">
@@ -432,7 +432,7 @@ LISP or list processing was created in 1958 by John McCarthy that is suitable fo
 MATLAB supports interoperability with other open source deep learning frameworks such as ONNX. Users can choose MATLAB for locating capabilities and prebuilt purposes and applications which are not available in other programming languages. The fundamental structure has a basic data element in a matrix. A simple integer is recognised as a matrix of one row and one column. Different mathematical methods that work on arrays or matrices are built into the Matlab environment. These features make the programming language very effective for implementing deep learning.
 
 *   [MATLAB Documentation](https://www.mathworks.com/help/matlab/) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-matlab/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-matlab/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 
 <details markdown="1">
@@ -486,7 +486,7 @@ MATLAB supports interoperability with other open source deep learning frameworks
 Scala is significantly faster than Python, and brings the best of object oriented and functional programming to one high-level language. It was originally built for the Java Virtual Machine (JVM) and is very easy to interact with Java Code. Developers can easily build high-performance systems, while avoiding bugs through Scala’s use of static types.
 
 *   [Scala Documentation](https://docs.scala-lang.org/) 📃
-*   [GeeksforGeeks](https://www.geeksforgeeks.org/scala-programming-language/)<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/scala-programming-language/)<img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/geeksforgeeks.svg" />
 
 <details markdown="1">
   <summary>Online Courses 💻</summary>
