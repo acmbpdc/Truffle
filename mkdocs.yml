@@ -1,0 +1,48 @@
+site_name: Truffle
+docs_dir: '.'
+remote_branch: mkdocs-webpage
+theme:
+  name: material
+
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  icon: assets/logo.png
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+nav:
+    - Home: 'README.md'
+    - Programming Languages: './Ganache/Languages/README.md'
+    - IDEs: './Ganache/IDEs/README.md'
+    - Python Libraries: './Ganache/Libraries/README.md'
+    - Frameworks: './Ganache/Frameworks/README.md'
+    - Courses/Tutorials: './Ganache/Courses/README.md'
+    - Data Sources: './Ganache/Data/README.md'
+    - Cloud Services: './Ganache/Cloud/README.md'
+    - Cheat Sheets: './Ganache/CheatSheets/README.md'
+    - Blogs: './Ganache/Blogs/README.md'
+    - Higher Degrees:
+        - Best Master's Programs: './Ganache/Masters/README.md'
+        - Best Ph.D. Programs: './Ganache/PhD/README.md'
+plugins:
+  - search
+  - same-dir
+markdown_extensions:
+  - pymdownx.extra
+extra_css: ['./assets/css/extra.css']
