@@ -1,6 +1,12 @@
 site_name: Truffle
 docs_dir: '.'
 remote_branch: mkdocs-webpage
+site_url: https://truffle.acmbpdc.org
+site_author: ACM BPDC
+site_description: Helping you kickstart your AI journey! 
+repo_url: https://github.com/acmbpdc/Truffle
+repo_name: acmbpdc/Truffle
+
 theme:
   name: material
 
