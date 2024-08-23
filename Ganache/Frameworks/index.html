@@ -1,0 +1,1102 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Helping you kickstart your AI journey!">
+      
+      
+        <meta name="author" content="ACM BPDC">
+      
+      
+        <link rel="canonical" href="https://truffle.acmbpdc.org/Ganache/Frameworks/">
+      
+      
+        <link rel="prev" href="../Libraries/">
+      
+      
+        <link rel="next" href="../Courses/">
+      
+      
+      <link rel="icon" href="../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.33">
+    
+    
+      
+        <title>Frameworks - Truffle</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#machine-learning-frameworks" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Truffle" class="md-header__button md-logo" aria-label="Truffle" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Truffle
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Frameworks
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/acmbpdc/Truffle" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    acmbpdc/Truffle
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Truffle" class="md-nav__button md-logo" aria-label="Truffle" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    Truffle
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/acmbpdc/Truffle" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    acmbpdc/Truffle
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Languages/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Programming Languages
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../IDEs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    IDEs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Frameworks
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Frameworks
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tensorflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      TensorFlow
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#caffe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Caffe
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#h2o" class="md-nav__link">
+    <span class="md-ellipsis">
+      H2O
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apache-spark" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apache Spark
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-cntk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Microsoft CNTK
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accord-net" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accord .NET
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apache-mahout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apache Mahout
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mxnet" class="md-nav__link">
+    <span class="md-ellipsis">
+      MXNet
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#onnx" class="md-nav__link">
+    <span class="md-ellipsis">
+      ONNX
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dask" class="md-nav__link">
+    <span class="md-ellipsis">
+      DASK
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mlflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      MLFlow
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chainer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chainer
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Courses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courses/Tutorials
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Data/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Sources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cloud/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cloud Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CheatSheets/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cheat Sheets
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Blogs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blogs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Higher Degrees
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Higher Degrees
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Masters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best Master's Programs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../PhD/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best Ph.D. Programs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tensorflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      TensorFlow
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#caffe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Caffe
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#h2o" class="md-nav__link">
+    <span class="md-ellipsis">
+      H2O
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apache-spark" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apache Spark
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-cntk" class="md-nav__link">
+    <span class="md-ellipsis">
+      Microsoft CNTK
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accord-net" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accord .NET
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apache-mahout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apache Mahout
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mxnet" class="md-nav__link">
+    <span class="md-ellipsis">
+      MXNet
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#onnx" class="md-nav__link">
+    <span class="md-ellipsis">
+      ONNX
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dask" class="md-nav__link">
+    <span class="md-ellipsis">
+      DASK
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mlflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      MLFlow
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chainer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chainer
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="machine-learning-frameworks">Machine Learning Frameworks</h1>
+<p>Machine Learning relies on algorithms. Unless you’re a data scientist or ML expert, these algorithms are very complicated to understand and work with.</p>
+<p>A machine learning framework, then, simplifies machine learning algorithms. An ML framework is any tool, interface, or library that lets you develop ML models easily, without understanding the underlying algorithms.</p>
+<p>There are a variety of machine learning frameworks, geared at different purposes. Nearly all ML the frameworks—those we discuss here and those we don’t—are written in Python. Python is the predominant machine learning programming language.</p>
+<ul>
+<li><a href="#tensorflow">TensorFlow</a>  </li>
+<li><a href="#caffe">Caffe</a>    </li>
+<li><a href="#h2o">H2O</a></li>
+<li><a href="#apache-spark">Apache Spark</a></li>
+<li><a href="#microsoft-cntk">Microsoft CNTK</a></li>
+<li><a href="#accord-net">Accord .NET</a></li>
+<li><a href="#apache-mahout">Apache Mahout</a></li>
+<li><a href="#mxnet">MXNet</a></li>
+<li><a href="#onnx">ONNX</a></li>
+<li><a href="#dask">DASK</a></li>
+<li><a href="#mlflow">MLFlow</a></li>
+<li><a href="#chainer">Chainer</a></li>
+</ul>
+<p><br></p>
+<h2 id="overview">Overview</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Library</th>
+<th style="text-align: center;">Developer(s)</th>
+<th style="text-align: center;">Initial Release</th>
+<th style="text-align: center;">Written In</th>
+<th style="text-align: center;">Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a></td>
+<td style="text-align: center;">Google Brain Team</td>
+<td style="text-align: center;">2015</td>
+<td style="text-align: center;">Python, C++, CUDA</td>
+<td style="text-align: center;">Machine Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Caffe_(software)">Caffe</a></td>
+<td style="text-align: center;">Berkeley Vision and Learning Center</td>
+<td style="text-align: center;">2017</td>
+<td style="text-align: center;">C++</td>
+<td style="text-align: center;">Deep Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://de.wikipedia.org/wiki/H2O_(Software)">H2O</a></td>
+<td style="text-align: center;">SriSatish Ambati, Cliff Click</td>
+<td style="text-align: center;">2017</td>
+<td style="text-align: center;">C++, Python</td>
+<td style="text-align: center;">Statistics</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Apache_Spark">Apache Spark</a></td>
+<td style="text-align: center;">Matei Zaharia</td>
+<td style="text-align: center;">2014</td>
+<td style="text-align: center;">Scala</td>
+<td style="text-align: center;">Data analytics, Machine Learning Algorithms</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Microsoft_Cognitive_Toolkit">Microsoft CNTK</a></td>
+<td style="text-align: center;">Microsoft Research</td>
+<td style="text-align: center;">2016</td>
+<td style="text-align: center;">C++</td>
+<td style="text-align: center;">Machine Learning, Deep Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Accord.NET">Accord .NET</a></td>
+<td style="text-align: center;">César Roberto de Souza</td>
+<td style="text-align: center;">2010</td>
+<td style="text-align: center;">C#</td>
+<td style="text-align: center;">Data Analytics, Machine Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Apache_Mahout">Apache Mahout</a></td>
+<td style="text-align: center;">Apache Software Foundation</td>
+<td style="text-align: center;">2009</td>
+<td style="text-align: center;">Java, Scala</td>
+<td style="text-align: center;">Machine Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Apache_MXNet">MXNet</a></td>
+<td style="text-align: center;">Apache Software Foundation</td>
+<td style="text-align: center;">2015</td>
+<td style="text-align: center;">C++, Python, R, Java, Julia, JavaScript, Scala, Go, Perl</td>
+<td style="text-align: center;">Machine Learning, Deep Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange">ONNX</a></td>
+<td style="text-align: center;">Facebook, Microsoft</td>
+<td style="text-align: center;">2017</td>
+<td style="text-align: center;">C++, Python</td>
+<td style="text-align: center;">Artificial Intelligence Ecosystem</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Dask_(software)">DASK</a></td>
+<td style="text-align: center;">Matthew Rocklin</td>
+<td style="text-align: center;">2018</td>
+<td style="text-align: center;">Python</td>
+<td style="text-align: center;">Data Analytics</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Databricks">MLFlow</a></td>
+<td style="text-align: center;">Databricks</td>
+<td style="text-align: center;">2015</td>
+<td style="text-align: center;">Python</td>
+<td style="text-align: center;">Machine Learning</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Chainer">Chainer</a></td>
+<td style="text-align: center;">Seiya Tokui</td>
+<td style="text-align: center;">2015</td>
+<td style="text-align: center;">Python</td>
+<td style="text-align: center;">Deep Learning</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" /></p>
+<h2 id="tensorflow">TensorFlow</h2>
+<p>TensorFlow is one of the best framework available for working with Machine Learning on Python. Offered by Google, TensorFlow makes ML model building easy for beginners and professionals alike.</p>
+<p>Using TensorFlow, you can create and train ML models on not just computers but also mobile devices and servers by using TensorFlow Lite and TensorFlow Serving that offers the same benefits but for mobile platforms and high-performance servers.</p>
+<p><a href="https://www.tensorflow.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/tensorflow">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://media-thumbs.golden.com/QHEbw-lIT2RP_px2Y95gMhHyRHs=/200x200/smart/golden-media.s3.amazonaws.com%2Ftopic_images%2Ff05d070db2c34011b0a47a3cb8160307.png" /></p>
+<h2 id="caffe">Caffe</h2>
+<p>CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework, originally developed at University of California, Berkeley.</p>
+<p>Caffe supports many different types of deep learning architectures geared towards image classification and image segmentation. It supports CNN, RCNN, LSTM and fully connected neural network designs.Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL</p>
+<p><a href="http://caffe.berkeleyvision.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/BVLC/caffe">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/H2O_logo_from_H2O.ai.png/220px-H2O_logo_from_H2O.ai.png" /></p>
+<h2 id="h2o">H2O</h2>
+<p>H2O implements algorithms from the field of statistics , data mining and machine learning ( generalized linear models , K-Means , Random Forest , Gradient Boosting and Deep Learning ). The software is based on the Hadoop Distributed File System , so that a performance gain is achieved compared to other analysis tools. </p>
+<p>H2O can be viewed graphically using a web browsercan be operated or used via interfaces with R , Python , Apache Hadoop and Spark and executed in Maven .</p>
+<p><a href="https://www.h2o.ai/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/h2oai">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/apachespark.svg" /></p>
+<h2 id="apache-spark">Apache Spark</h2>
+<p>Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. </p>
+<p>Originally developed at the University of California, Berkeley's AMPLab, the Spark codebase was later donated to the Apache Software Foundation, which has maintained it since.</p>
+<p><a href="https://spark.apache.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://gitbox.apache.org/repos/asf?p=spark.git">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png" /></p>
+<h2 id="microsoft-cntk">Microsoft CNTK</h2>
+<p>Microsoft Cognitive Toolkit, previously known as CNTK and sometimes styled as The Microsoft Cognitive Toolkit, is a deprecated deep learning framework developed by Microsoft Research. Microsoft Cognitive Toolkit describes neural networks as a series of computational steps via a directed graph.</p>
+<p><a href="https://www.microsoft.com/en-us/cognitive-toolkit/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/Microsoft/CNTK">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/dotnet.svg" /></p>
+<h2 id="accord-net">Accord .NET</h2>
+<p>The framework comprises a set of libraries that are available in source code as well as via executable installers and NuGet packages. The main areas covered include numerical linear algebra, numerical optimization, statistics, machine learning, artificial neural networks, signal and image processing, and support libraries (such as graph plotting and visualization).</p>
+<p><a href="http://www.accord-framework.net/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/accord-net/framework">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://www.static-contents.youth4work.com/ed/vDocuments/Education/PreviewPic/446bcf7e-6a4a-461b-aacd-7c6ad7516c49.png" /></p>
+<h2 id="apache-mahout">Apache Mahout</h2>
+<p>Apache Mahout is a project of the Apache Software Foundation to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra. In the past, many of the implementations use the Apache Hadoop platform, however today it is primarily focused on Apache Spark. Mahout also provides Java/Scala libraries for common maths operations (focused on linear algebra and statistics) and primitive Java collections. Mahout is a work in progress; a number of algorithms have been implemented.</p>
+<p><a href="https://mahout.apache.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://gitbox.apache.org/repos/asf/mahout.git">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="http://naolink.com/wp-content/uploads/2020/12/MXNET.jpg" /></p>
+<h2 id="mxnet">MXNet</h2>
+<p>Apache MXNet is an open-source deep learning software framework, used to train, and deploy deep neural networks. It is scalable, allowing for fast model training, and supports a flexible programming model and multiple programming languages (including C++, Python, Java, Julia, Matlab, JavaScript, Go, R, Scala, Perl, and Wolfram Language.)</p>
+<p><a href="https://mxnet.apache.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/apache/incubator-mxnet">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://simpleicons.org/icons/onnx.svg" /></p>
+<h2 id="onnx">ONNX</h2>
+<p>The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector.</p>
+<p><a href="https://onnx.ai/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/onnx/onnx">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dask_logo.svg/1200px-Dask_logo.svg.png" /></p>
+<h2 id="dask">DASK</h2>
+<p>Dask is a library composed of two parts. It includes a task scheduling component for building dependency graphs and scheduling tasks. Second, it includes the distributed data structures with APIs similar to Pandas Dataframes or NumPy arrays. Dask has a variety of use cases and can be run with a single node and scale to thousand node clusters.</p>
+<p><a href="https://dask.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/dask/dask">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" /></p>
+<h2 id="mlflow">MLFlow</h2>
+<p>MlFlow is a framework that supports the machine learning lifecycle. This means that it has components to monitor your model during training and running, ability to store models, load the model in production code and create a pipeline. The framework introduces 3 distinct features each with it's own capabilities.</p>
+<p><a href="https://mlflow.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/mlflow/mlflow">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" />  </p>
+<p><br></p>
+<p><img align="left" class="imglogo" alt="python" width="26px" src="https://cdn.algorithmia.com/developers/images/language_logos/chainer.png" /></p>
+<h2 id="chainer">Chainer</h2>
+<p>Chainer is an open source deep learning framework written purely in Python on top of NumPy and CuPy Python libraries. The development is led by Japanese venture company Preferred Networks in partnership with IBM, Intel, Microsoft, and Nvidia.</p>
+<p>Chainer is notable for its early adoption of "define-by-run" scheme, as well as its performance on large scale systems. The first version was released in June 2015 and has gained large popularity in Japan since then. Furthermore, in 2017, it was listed by KDnuggets in top 10 open source machine learning Python projects.</p>
+<p><a href="https://chainer.org/">Website</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/googlechrome.svg" />  </p>
+<p><a href="https://github.com/chainer/chainer">GitHub</a> <img align="left" class="git_and_website" alt="python" width="26px" src="https://simpleicons.org/icons/github.svg" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.af256bd8.min.js"></script>
+      
+    
+  </body>
+</html>

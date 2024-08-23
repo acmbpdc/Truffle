@@ -1,0 +1,1173 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Helping you kickstart your AI journey!">
+      
+      
+        <meta name="author" content="ACM BPDC">
+      
+      
+        <link rel="canonical" href="https://truffle.acmbpdc.org/Ganache/Data/">
+      
+      
+        <link rel="prev" href="../Courses/">
+      
+      
+        <link rel="next" href="../Cloud/">
+      
+      
+      <link rel="icon" href="../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.33">
+    
+    
+      
+        <title>Data Sources - Truffle</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#data-sources" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Truffle" class="md-header__button md-logo" aria-label="Truffle" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Truffle
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Data Sources
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/acmbpdc/Truffle" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    acmbpdc/Truffle
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Truffle" class="md-nav__button md-logo" aria-label="Truffle" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    Truffle
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/acmbpdc/Truffle" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    acmbpdc/Truffle
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Languages/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Programming Languages
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../IDEs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    IDEs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Frameworks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Frameworks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Courses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courses/Tutorials
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Data Sources
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Data Sources
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dataset-finders" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dataset Finders
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#machine-learning-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Machine Learning Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#computer-vision-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Computer Vision Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sentiment-analysis-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sentiment Analysis Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#natural-language-processing-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural Language Processing Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-driving-autonomous-vehicles-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Self Driving (Autonomous Vehicles) Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clinical-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Clinical Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recommendation-systems-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Recommendation Systems Datasets
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cloud/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cloud Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CheatSheets/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cheat Sheets
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Blogs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blogs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Higher Degrees
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Higher Degrees
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Masters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best Master's Programs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../PhD/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best Ph.D. Programs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dataset-finders" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dataset Finders
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#machine-learning-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Machine Learning Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#computer-vision-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Computer Vision Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sentiment-analysis-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sentiment Analysis Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#natural-language-processing-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural Language Processing Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-driving-autonomous-vehicles-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Self Driving (Autonomous Vehicles) Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clinical-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Clinical Datasets
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recommendation-systems-datasets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Recommendation Systems Datasets
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="data-sources">Data Sources</h1>
+<ul>
+<li><a href="#dataset-finders">Dataset Finders</a>   </li>
+<li><a href="#machine-learning-datasets">Machine Learning Datasets</a></li>
+<li><a href="#computer-vision-datasets">Computer Vision Datasets</a></li>
+<li><a href="#sentiment-analysis-datasets">Sentiment Analysis Datasets</a></li>
+<li><a href="#natural-language-processing-datasets">Natural Language Processing Datasets</a></li>
+<li><a href="#self-driving-autonomous-vehicles-datasets">Self-driving (Autonomous Vehicles) Datasets</a></li>
+<li><a href="#clinical-datasets">Clinical Datasets</a></li>
+<li><a href="#recommendation-systems-datasets">Recommendation System Datasets</a></li>
+</ul>
+<p><br></p>
+<h2 id="dataset-finders">Dataset Finders</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: center;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/">Kaggle</a></td>
+<td style="text-align: center;">Kaggle provides a vast container of datasets, sufficient for the enthusiast to the expert.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://toolbox.google.com/datasetsearch">Google’s Dataset Search Engine</a></td>
+<td style="text-align: center;">Similar to how Google Scholar works, Dataset Search lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a></td>
+<td style="text-align: center;">The Machine Learning Repository at UCI provides an up to date resource for open-source datasets.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.visualdata.io/">VisualData</a></td>
+<td style="text-align: center;">Discover computer vision datasets by category; it allows searchable queries.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://datasets.quantumstat.com/">The Big Bad NLP Database</a></td>
+<td style="text-align: center;">datasets for various natural language processing tasks, created and curated by <a href="https://quantumstat.com/">Quantum Stat</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/awesomedata/awesome-public-datasets#datachallenges">Awesome Public Datasets Collection</a></td>
+<td style="text-align: center;">This collection is a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses. Contains tons of data sources and categories</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://guides.library.cmu.edu/machine-learning/datasets">CMU Libraries</a></td>
+<td style="text-align: center;">Discover high-quality datasets thanks to the collection of Huajin Wang, at CMU.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.reddit.com/r/datasets/">Reddit</a></td>
+<td style="text-align: center;">Datasets provided by the Reddit Community</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="machine-learning-datasets">Machine Learning Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/shwetabh123/mall-customers">Mall Customers Dataset</a></td>
+<td style="text-align: left;">The Mall customers dataset contains information about people visiting the mall in a particular city. The dataset consists of various columns like gender, customer id, age, annual income, and spending score. It’s generally used to segment customers based on their age, income, and interest.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://archive.ics.uci.edu/ml/datasets/Iris">IRIS Dataset</a></td>
+<td style="text-align: left;">The iris dataset is a simple and beginner-friendly dataset that contains information about the flower petal and sepal width. The data is divided into three classes, with 50 rows in each class. It’s generally used for classification and regression modeling.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://yann.lecun.com/exdb/mnist/">MNIST Dataset</a></td>
+<td style="text-align: left;">This is a database of handwritten digits. It contains 60,000 training images and 10,000 testing images. This is a perfect dataset to start implementing image classification where you can classify a digit from 0 to 9.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html">Boston Housing Dataset</a></td>
+<td style="text-align: left;">Contains information collected by the US Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive and has been used extensively throughout the literature to benchmark algorithms.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/c/fake-news/data">Fake News Detection Dataset</a></td>
+<td style="text-align: left;">It is a CSV file that has 7796 rows with four columns. There are four columns: news, title, news text, result.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://archive.ics.uci.edu/ml/datasets/wine+quality">Wine quality dataset</a></td>
+<td style="text-align: left;">The dataset contains different chemical information about the wine. The dataset is suitable for classification and regression tasks.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights">SOCR data — Heights and Weights Dataset</a></td>
+<td style="text-align: left;">This is a basic dataset for beginners. It contains only the height and weights of 25,000 different humans of 18 years of age. This dataset can be used to build a model that can predict the height or weight of a human.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">Credit Card Fraud Detection Dataset</a></td>
+<td style="text-align: left;">The dataset contains transactions made by credit cards; they are labeled as fraudulent or genuine. This is important for companies that have transaction systems to build a model for detecting fraudulent activities.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/xiuchengwang/python-dataset-download">Google-Landmarks-v2</a></td>
+<td style="text-align: left;">An improved dataset for landmark recognition and retrieval. This dataset contains 5M+ images of 200k+ landmarks from across the world, sourced and annotated by the Wiki Commons community.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://eoddata.com/">Stock Prices</a></td>
+<td style="text-align: left;">Stock Prices stores historical data about day stock prices, dividends, and splits for US stocks.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0">Restaurants Health Score</a></td>
+<td style="text-align: left;">Restaurants Health Score in San Francisco developed by the local Health Department provides interesting material for researchers interested in public health and restaurant business.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="computer-vision-datasets">Computer Vision Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://research.googleblog.com/2016/09/introducing-open-images-dataset.html">Google’s Open Images</a></td>
+<td style="text-align: left;">A vast dataset from Google AI containing over 10 million images.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://xviewdataset.org/#dataset">xView</a></td>
+<td style="text-align: left;">xView is one of the most massive publicly available datasets of overhead imagery. It contains images from complex scenes around the world, annotated using bounding boxes.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://image-net.org/">ImageNet</a></td>
+<td style="text-align: left;">The largest image dataset for computer vision. It provides an accessible image database that is organized hierarchically, according to WordNet.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.deepmind.com/open-source/kinetics">Kinetics-700</a></td>
+<td style="text-align: left;">A large-scale dataset of video URLs from Youtube. Including human-centered actions. It contains over 700,000 videos.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.cityscapes-dataset.com/">Cityscapes Dataset</a></td>
+<td style="text-align: left;">This is an open-source dataset for Computer Vision projects. It contains high-quality pixel-level annotations of video sequences taken in 50 different city streets. The dataset is useful in semantic segmentation and training deep neural networks to understand the urban scene.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/">IMDB-Wiki dataset</a></td>
+<td style="text-align: left;">The IMDB-Wiki dataset is one of the most extensive open-source datasets for face images with labeled gender and age. The images are collected from IMDB and Wikipedia. It has five million-plus labeled images.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/codebrainz/color-names/blob/master/output/colors.csv">Color Detection Dataset</a></td>
+<td style="text-align: left;">The dataset contains a CSV file that has 865 color names with their corresponding RGB(red, green, and blue) values of the color. It also has the hexadecimal value of the color.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://vision.stanford.edu/aditya86/ImageNetDogs/">Stanford Dogs Dataset</a></td>
+<td style="text-align: left;">It contains 20,580 images and 120 different dog breed categories.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></td>
+<td style="text-align: left;">CIFAR-10 is a collection of images for training deep learning computer vision algorithms. The data bank consists of 60000 32x32 color images in 10 classes, 6000 images in each class. If this is not enough, try the CIFAR-100 dataset.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://cocodataset.org/#home">COCO</a></td>
+<td style="text-align: left;">COCO is a regularly updated DB for object segmentation and recognition in context, sponsored by Microsoft, Facebook, and Mighty AI.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="sentiment-analysis-datasets">Sentiment Analysis Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://quanteda.io/reference/data_dictionary_LSD2015.html">Lexicoder Sentiment Dictionary</a></td>
+<td style="text-align: left;">This dataset is specific for sentiment analysis. The dataset contains over 3000 negative words and over 2000 positive sentiment words.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB reviews</a></td>
+<td style="text-align: left;">An interesting dataset with over 50,000 movie reviews from Kaggle.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://nlp.stanford.edu/sentiment/code.html">Stanford Sentiment Treebank</a></td>
+<td style="text-align: left;">Standard sentiment dataset with sentiment annotations.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/crowdflower/twitter-airline-sentiment">Twitter US Airline Sentiment</a></td>
+<td style="text-align: left;">Twitter data on US airlines from February 2015, classified as positive, negative, and neutral tweets</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="natural-language-processing-datasets">Natural Language Processing Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="http://ai.stanford.edu/~amaas/data/sentiment/">IMDB reviews</a></td>
+<td style="text-align: left;">The large movie review dataset consists of movie reviews from IMDB website with over 25,000 reviews for training and 25,000 for the testing set.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://archive.ics.uci.edu/ml/datasets/Spambase">UCI Spambase Dataset</a></td>
+<td style="text-align: left;">Classifying emails as spam or non-spam is a prevalent and useful task. The dataset contains 4601 emails and 57 meta-information about the emails. You can build models to filter out the spam.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://cseweb.ucsd.edu/~jmcauley/datasets.html">Recommender Systems Dataset</a></td>
+<td style="text-align: left;">It contains various datasets from popular websites like Goodreads book reviews, Amazon product reviews, bartending data, data from social media, and others that are used in building a recommender system.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.cs.cmu.edu/~enron/">Enron Email Dataset</a></td>
+<td style="text-align: left;">It contains around 0.5 million emails of over 150 users.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/">SMS Spam Collection in English</a></td>
+<td style="text-align: left;">A dataset that consists of 5,574 English SMS spam messages.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view">Rotten Tomatoes Reviews</a></td>
+<td style="text-align: left;">Archive of more than 480,000 critic reviews (fresh or rotten).</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://snap.stanford.edu/data/web-Amazon.html">Amazon Reviews</a></td>
+<td style="text-align: left;">A vast dataset from Amazon, containing over 45 million Amazon reviews.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://hotpotqa.github.io/">HotspotQA Dataset</a></td>
+<td style="text-align: left;">Question answering dataset featuring natural, multi-hop questions, with intense supervision for supporting facts to enable more explainable question answering systems.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://www.robots.ox.ac.uk/~vgg/data/voxceleb/">VoxCeleb</a></td>
+<td style="text-align: left;">VoxCeleb is an audio collection that you can use for deep learning tasks such as real-time natural language processing, voice recognition, and speech generation.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://hotpotqa.github.io/">LibriSpeech</a></td>
+<td style="text-align: left;">On LibriSpeech, you will find about 1000 hours of 16kHz oral English speech derived from audiobooks.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Jakobovski/free-spoken-digit-dataset">Free Spoken Digit Dataset</a></td>
+<td style="text-align: left;">Free Spoken Digit Dataset can be used for. It consists of spoken digit recordings at 8kHz that are precisely trimmed. They have near minimal silence at the beginnings and ends. The dataset is open-source.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://voice.mozilla.org/en/datasets">Common Voice</a></td>
+<td style="text-align: left;">Common Voice is an initiative by Mozilla that contains hundreds of thousands of records of human voice. Every visitor of the Common Voice website can contribute to their open human speech database recording their own voice.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://wordnet.princeton.edu/">WordNet</a></td>
+<td style="text-align: left;">WordNet is a lexical database that contains all parts of speech grouped into sets of synonyms. Such a structure makes it a fantastic tool for natural language processing and linguistic research.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.yelp.com/dataset">Yelp Reviews</a></td>
+<td style="text-align: left;">Yelp Reviews contains user reviews, business information, and images that you can use for personal and academic purposes.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/crawford/20-newsgroups">20 Newsgroups</a></td>
+<td style="text-align: left;">20 Newsgroups is a dataset that consists of 18,000+ text documents from 20 different newsgroups including sports, technology, art, entertainment, etc.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="self-driving-autonomous-vehicles-datasets">Self Driving (Autonomous Vehicles) Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://waymo.com/open/">Waymo Open Dataset</a></td>
+<td style="text-align: left;">This is a fantastic dataset resource from the folks at Waymo. Includes a vast dataset of autonomous driving, enough to train deep nets from zero.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://bdd-data.berkeley.edu/">Berkeley DeepDrive BDD100k</a></td>
+<td style="text-align: left;">One of the largest datasets for self-driving cars, containing over 2000 hours of driving experiences across New York and California.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://hci.iwr.uni-heidelberg.de/node/6132">Bosch Small Traffic Light Dataset</a></td>
+<td style="text-align: left;">Dataset for small traffic lights for deep learning.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://computing.wpi.edu/dataset.html">WPI datasets</a></td>
+<td style="text-align: left;">Datasets for traffic lights, pedestrian, and lane detection.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://archive.org/details/comma-dataset">Comma.ai</a></td>
+<td style="text-align: left;">It contains details such as a car’s speed, acceleration, steering angle, and GPS coordinates.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://avindata.ca/dataset/lisa-laboratory-for-intelligent-safe-automobiles-datasets">LISA: Laboratory for Intelligent &amp; Safe Automobiles, UC San Diego Datasets</a></td>
+<td style="text-align: left;">This dataset includes traffic signs, vehicle detection, traffic lights, and trajectory patterns.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.cityscapes-dataset.com/">Cityscape Dataset</a></td>
+<td style="text-align: left;">This is an extensive dataset that has street scenes in 50 different cities.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="clinical-datasets">Clinical Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/cabani/MaskedFace-Net">MaskedFace-Net</a></td>
+<td style="text-align: left;">MaskedFace-Net is a real dataset containing human faces with correct and incorrectly worn masks. It contains over 137k images which are based on the <a href="https://github.com/NVlabs/ffhq-dataset">Flick-Faces-HQ dataset</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.semanticscholar.org/cord19">COVID-19 Dataset</a></td>
+<td style="text-align: left;">The Allen Institute of AI research has released a vast research dataset of over 45,000 scholarly articles about COVID-19.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://mimic.physionet.org/"> MIMIC-III</a></td>
+<td style="text-align: left;">Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="recommendation-systems-datasets">Recommendation Systems Datasets</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Dataset</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://grouplens.org/datasets/movielens/">MovieLens</a></td>
+<td style="text-align: left;">It contains rating data sets from the MovieLens web site.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://www.ieor.berkeley.edu/~goldberg/jester-data/"> Jester</a></td>
+<td style="text-align: left;">It contains 4.1 Million continuous ratings (-10.00 to +10.00) of 100 jokes from 73,421 users. It’s mostly used for the collaborative filter.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://www.kaggle.com/c/msdchallenge#description">Million Song Dataset</a></td>
+<td style="text-align: left;">It can be used for both collaborative and content-based filtering.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="http://jmcauley.ucsd.edu/data/amazon/links.html">Amazon Product Data</a></td>
+<td style="text-align: left;">Amazon Product Data contains metadata and reviews on millions of items sold on Amazon. This is an incredible resource for anyone interested in recommender systems.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.af256bd8.min.js"></script>
+      
+    
+  </body>
+</html>
